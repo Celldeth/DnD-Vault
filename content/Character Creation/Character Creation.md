@@ -17,7 +17,7 @@ Defer to your character class and select equipment based on the options there.
 
 # Choosing a Background:
 
-[[30 DM resources/Character Creation/Backgrounds/Backgrounds]] are all available. Custom backgrounds need to be approved.
+[[Backgrounds]] are all available. Custom backgrounds need to be approved.
 
 # Determining your ability score:
 
