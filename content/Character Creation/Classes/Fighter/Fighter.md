@@ -1,3 +1,7 @@
+---
+tags:
+  - Class/Fighter
+---
 **_Fighters share an unparalleled mastery with weapons and armor, and a thorough knowledge of the skills of combat. They are well acquainted with death, both meting it out and staring it defiantly in the face._**
 
 _You must have a Dexterity or Strength score of 13 or higher in order to multiclass in or out of this class._

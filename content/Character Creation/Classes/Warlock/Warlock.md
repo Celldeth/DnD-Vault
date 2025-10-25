@@ -1,3 +1,7 @@
+---
+tags:
+  - Class/Warlock
+---
 **_Warlocks are seekers of the knowledge that lies hidden in the fabric of the multiverse. Through pacts made with mysterious beings of supernatural power, warlocks unlock magical effects both subtle and spectacular._**
 
 _You must have a Charisma score of 13 or higher in order to multiclass in or out of this class._

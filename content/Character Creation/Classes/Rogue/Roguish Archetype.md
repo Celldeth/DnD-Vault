@@ -1,5 +1,6 @@
 ---
-Tag:
+tags:
+  - Subclasses
 ---
 
 ### Arcane Trickster

@@ -1,5 +1,6 @@
 ---
-Tag:
+tags:
+  - Class/Sorcerer
 ---
 
 

@@ -1,3 +1,7 @@
+---
+tags:
+  - Subclasses
+---
 ## Ranger Conclave
 
 ### Beast Master Conclave

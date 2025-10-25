@@ -1,5 +1,5 @@
 ---
-Tag: Class/Paladin/Subclass
+tags: Class/Paladin/Subclass
 ---
 
 ### Oath of the Ancients

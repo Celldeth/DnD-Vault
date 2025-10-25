@@ -1,5 +1,5 @@
 ---
-Tag: Class/Monk/Subclass
+tags: Class/Monk/Subclass
 ---
 
 ### Way of the Astral Self
