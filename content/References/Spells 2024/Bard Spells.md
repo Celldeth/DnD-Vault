@@ -5,18 +5,18 @@ tags:
 
 ## Cantrips
 
-| Spell                                                                    | School        | Special |
-| ------------------------------------------------------------------------ | ------------- | ------- |
-| [[40 References/Spells 2024/Level 0/Dancing Lights\|Dancing Lights]]     | Illusion      | C       |
-| [[40 References/Spells 2024/Level 0/Light\|Light]]                       | Evocation     | —       |
-| [[40 References/Spells 2024/Level 0/Mage Hand\|Mage Hand]]               | Conjuration   | —       |
-| [[40 References/Spells 2024/Level 0/Mending\|Mending]]                   | Transmutation | —       |
-| [[40 References/Spells 2024/Level 0/Message\|Message]]                   | Transmutation | —       |
-| [[40 References/Spells 2024/Level 0/Minor Illusion\|Minor Illusion]]     | Illusion      | —       |
-| [[40 References/Spells 2024/Level 0/Prestidigitation\|Prestidigitation]] | Transmutation | —       |
-| [[Starry Wisp]]                                                          | Evocation     | —       |
-| [[40 References/Spells 2024/Level 0/True Strike\|True Strike]]           | Divination    | —       |
-| [[40 References/Spells 2024/Level 0/Vicious Mockery\|Vicious Mockery]]   | Enchantment   | —       |
+| Spell                | School        | Special |
+| -------------------- | ------------- | ------- |
+| [[Dancing Lights]]   | Illusion      | C       |
+| [[Light]]            | Evocation     | —       |
+| [[Mage Hand]]        | Conjuration   | —       |
+| [[Mending]]          | Transmutation | —       |
+| [[Message]]          | Transmutation | —       |
+| [[Minor Illusion]]   | Illusion      | —       |
+| [[Prestidigitation]] | Transmutation | —       |
+| [[Starry Wisp]]      | Evocation     | —       |
+| [[True Strike]]      | Divination    | —       |
+| [[Vicious Mockery]]  | Enchantment   | —       |
 
 ## Level 1
 
