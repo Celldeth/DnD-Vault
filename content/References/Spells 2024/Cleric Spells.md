@@ -4,7 +4,7 @@
 ```dataview
 table Level, School, Casting-Time, Range, Duration, Components, Special 
 from #magic/spell and #class/cleric 
-sort Type asc
+sort Name asc
 ```
 
 
