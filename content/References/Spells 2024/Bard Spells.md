@@ -23,7 +23,9 @@ tags:
 
 
 ```dataview
-table Level, School, Casting-Time, Range, Duration, Components, Special FROM #magic/spell    sort Type asc
+table Level, School, Casting-Time, Range, Duration, Components, Special 
+from #magic/spell and #class/bard 
+sort Type asc
 ```
 
 
