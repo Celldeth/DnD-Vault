@@ -14,17 +14,17 @@ Twelve classes — listed in the Classes table — are found in almost every D&D
 
 | Class                | Likes          | Hit Die | Primary Ability       | Complexity |
 | -------------------- | -------------- | ------- | --------------------- | ---------- |
-| [[Artificer]]        | Crafting       | d8      | Intelligence          | Average    |
-| [[Barbarian (2024)]] | Battle         | d12     | Strength              | Average    |
-| [[Bard (2024)]]      | Performing     | d8      | Charisma              | High       |
-| [[Cleric (2024)]]    | Gods           | d8      | Wisdom                | Average    |
-| [[Druid (2024)]]     | Nature         | d8      | Wisdom                | High       |
-| [[Fighter (2024)]]   | Weapons        | d10     | Strength or Dexterity | Low        |
-| [[Monk (2024)]]      | Unarmed Combat | d8      | Dexterity & Wisdom    | High       |
-| [[Paladin (2024)]]   | Defense        | d10     | Strength & Charisma   | Average    |
-| [[Ranger (2024)]]    | Survival       | d10     | Dexterity & Wisdom    | Average    |
-| [[Rogue (2024)]]     | Stealth        | d8      | Dexterity             | Low        |
-| [[Sorcerer (2024)]]  | Power          | d6      | Charisma              | High       |
-| [[Warlock (2024)]]   | Occult Lore    | d8      | Charisma              | High       |
-| [[Wizard (2024)]]    | Spellbooks     | d6      | Intelligence          | Average    |
+| [[content/Character Creation/Classes/Artificer/Artificer]]        | Crafting       | d8      | Intelligence          | Average    |
+| [[content/Character Creation/Classes/Barbarian/Barbarian (2024)]] | Battle         | d12     | Strength              | Average    |
+| [[content/Character Creation/Classes/Bard/Bard (2024)]]      | Performing     | d8      | Charisma              | High       |
+| [[content/Character Creation/Classes/Cleric/Cleric (2024)]]    | Gods           | d8      | Wisdom                | Average    |
+| [[content/Character Creation/Classes/Druid/Druid (2024)]]     | Nature         | d8      | Wisdom                | High       |
+| [[content/Character Creation/Classes/Fighter/Fighter (2024)]]   | Weapons        | d10     | Strength or Dexterity | Low        |
+| [[content/Character Creation/Classes/Monk/Monk (2024)]]      | Unarmed Combat | d8      | Dexterity & Wisdom    | High       |
+| [[content/Character Creation/Classes/Paladin/Paladin (2024)]]   | Defense        | d10     | Strength & Charisma   | Average    |
+| [[content/Character Creation/Classes/Ranger/Ranger (2024)]]    | Survival       | d10     | Dexterity & Wisdom    | Average    |
+| [[content/Character Creation/Classes/Rogue/Rogue (2024)]]     | Stealth        | d8      | Dexterity             | Low        |
+| [[content/Character Creation/Classes/Sorcerer/Sorcerer (2024)]]  | Power          | d6      | Charisma              | High       |
+| [[content/Character Creation/Classes/Warlock/Warlock (2024)]]   | Occult Lore    | d8      | Charisma              | High       |
+| [[content/Character Creation/Classes/Wizard/Wizard (2024)]]    | Spellbooks     | d6      | Intelligence          | Average    |
 

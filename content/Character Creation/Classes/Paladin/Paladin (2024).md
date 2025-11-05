@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.734-08:00","modified":"2025-11-02T17:33:42.096-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 > [!summary] Core Paladin Traits
 > **Primary Ability**  -  Strength and Charisma
@@ -125,7 +125,7 @@ _**Blessed Warrior.**_ You learn two Cleric cantrips of your choice (see the Cl
 
 ### Level 2: Paladin’s Smite
 
-You always have the [[Divine Smite]] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
+You always have the [[content/References/Spells 2024/Level 1/Divine Smite]] spell prepared. In addition, you can cast it without expending a spell slot, but you must finish a Long Rest before you can cast it in this way again.
 
 ### Level 3: Channel Divinity
 
@@ -141,15 +141,15 @@ _**Divine Sense.**_ As a Bonus Action, you can open your awareness to detect Ce
 
 You gain a Paladin subclass of your choice. The Oath of Devotion subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Paladin levels. For the rest of your career, you gain each of your subclass’s features that are of your Paladin level or lower.
 
-- [[Oath of the Ancients (2024)]]
-- [[Oath of Conquest]]
-- [[Oath of the Crown]]
-- [[Oath of Devotion (2024)]]
-- [[Oath of Glory (2024)]]
-- [[Oath of Redemption]]
-- [[Oath of Vengeance (2024)]]
-- [[Oath of the Watchers]]
-- [[Oathbreaker]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oath of the Ancients (2024)]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oath of Conquest]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oath of the Crown]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oath of Devotion (2024)]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oath of Glory (2024)]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oath of Redemption]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oath of Vengeance (2024)]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oath of the Watchers]]
+- [[content/Character Creation/Classes/Paladin/Subclasses/Oathbreaker]]
 
 
 >[!info] #### Breaking Your Oath

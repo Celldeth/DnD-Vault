@@ -1,12 +1,7 @@
 ---
-tags:
-  - magic/spell
-  - class/cleric
-Level: "2"
-School: Abjuration
-Casting-Time: Action
-Range: 30 ft
+{"publish":true,"created":"2025-10-31T18:56:15.221-07:00","modified":"2025-10-31T18:18:27.884-07:00","tags":["magic/spell","class/cleric"],"cssclasses":""}
 ---
+
 level 2 - #abjuration Casting Time: Action Range: 30 feet Components: V, S, M (a strip of white cloth) Duration: 8 hours 
 
 Choose up to three creatures within range. Each target's Hit Point maximum and current Hit Points increase by 5 for the duration. 

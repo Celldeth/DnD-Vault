@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/ranger/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.789-08:00","modified":"2025-11-03T16:24:06.005-08:00","tags":["gameplay/class/ranger/subclass"],"cssclasses":""}
 ---
+
 *Draw on Shadow Magic to Fight Your Foes*
 
 Gloom Stalkers are at home in the darkest places, wielding magic drawn from the Shadowfell to combat enemies that lurk in darkness.

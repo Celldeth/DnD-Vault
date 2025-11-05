@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/fighter/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.684-08:00","modified":"2025-11-02T14:37:19.533-08:00","tags":["gameplay/class/fighter/subclass"],"cssclasses":""}
 ---
+
 *Augment Physical Might with Psionic Power*
 
 Psi Warriors awaken the power of their minds to augment their physical might. They harness this psionic power to infuse their weapon strikes, lash out with telekinetic energy, and create barriers of mental force.

@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.659-08:00","modified":"2025-11-02T14:38:02.928-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 > [!summary] Core Fighter Traits
 > **Primary Ability**  -  Strength or Dexterity
@@ -58,7 +58,7 @@ As a Fighter, you gain the following class features when you reach the specified
 
 ### Level 1: Fighting Style
 
-You have honed your martial prowess and gain a [[Fighting Style Feats|Fighting Style Feat]] of your choice. Defense is recommended.
+You have honed your martial prowess and gain a [[content/Character Creation/Feats (2024)/Fighting Style Feats\|Fighting Style Feat]] of your choice. Defense is recommended.
 
 Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 
@@ -72,7 +72,7 @@ When you reach certain Fighter levels, you gain more uses of this feature, as sh
 
 ### Level 1: Weapon Mastery
 
-Your training with weapons allows you to use the [[Weapon Mastery Properties|mastery properties]] of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the [[Weapon Mastery Properties\|mastery properties]] of three kinds of Simple or Martial weapons of your choice. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 
 When you reach certain Fighter levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Fighter Features table.
 
@@ -90,21 +90,21 @@ You have a mind for tactics on and off the battlefield. When you fail an ability
 
 You gain a Fighter subclass of your choice. The Champion subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Fighter levels. For the rest of your career, you gain each of your subclass’s features that are of your Fighter level or lower.
 
-- [[Arcane Archer Archetype]]
-- [[Banneret Archetype]]
-- [[Battle Master Archetype (2024)]]
-- [[Cavalier Archetype]]
-- [[Champion Archetype (2024)]]
-- [[Echo Knight Archetype]]	
-- [[Eldritch Knight Archetype (2024)]]
-- [[Psi Warrior Archetype (2024)]]
-- [[Rune Knight Archetype]]	
-- [[Samurai Archetype]]	
+- [[content/Character Creation/Classes/Fighter/Subclasses/Arcane Archer Archetype]]
+- [[content/Character Creation/Classes/Fighter/Subclasses/Banneret Archetype]]
+- [[content/Character Creation/Classes/Fighter/Subclasses/Battle Master Archetype (2024)]]
+- [[content/Character Creation/Classes/Fighter/Subclasses/Cavalier Archetype]]
+- [[content/Character Creation/Classes/Fighter/Subclasses/Champion Archetype (2024)]]
+- [[content/Character Creation/Classes/Fighter/Subclasses/Echo Knight Archetype]]	
+- [[content/Character Creation/Classes/Fighter/Subclasses/Eldritch Knight Archetype (2024)]]
+- [[content/Character Creation/Classes/Fighter/Subclasses/Psi Warrior Archetype (2024)]]
+- [[content/Character Creation/Classes/Fighter/Subclasses/Rune Knight Archetype]]	
+- [[content/Character Creation/Classes/Fighter/Subclasses/Samurai Archetype]]	
 
 ___
 
-[[Renegade Archetype]]	
-[[Gunslinger Archetype]]
+[[content/Character Creation/Classes/Fighter/Subclasses/Renegade Archetype]]	
+[[content/Character Creation/Classes/Fighter/Subclasses/Gunslinger Archetype]]
 
 ### Level 4: Ability Score Improvement
 

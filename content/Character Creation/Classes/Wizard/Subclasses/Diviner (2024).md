@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/wizard/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.926-08:00","modified":"2025-11-04T14:50:04.360-08:00","tags":["gameplay/class/wizard/subclass"],"cssclasses":""}
 ---
+
 *Learn the Secrets of the Multiverse*
 
 The counsel of a Diviner is sought by those who want a clearer understanding of the past, present, and future. As a Diviner, you strive to part the veils of space, time, and consciousness. You work to master spells of discernment, remote viewing, supernatural knowledge, and foresight.

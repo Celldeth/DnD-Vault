@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/cleric/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.592-08:00","modified":"2025-11-02T11:48:44.126-08:00","tags":["gameplay/class/cleric/subclass"],"cssclasses":""}
 ---
+
 *Bring Light to Banish Darkness*
 
 The Light Domain emphasizes the divine power to bring about blazing fire and revelation. Clerics who wield this power are enlightened souls infused with radiance and the power of their deities' discerning vision, charged with chasing away lies and burning away darkness.

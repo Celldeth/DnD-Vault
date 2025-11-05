@@ -1,17 +1,7 @@
 ---
-tags:
-  - magic/spell
-  - class/bard
-Level: "0"
-School: Evocation
-Casting-Time: Action
-Range: 60 feet
-Components:
-  - Verbal
-  - Symatic
-Duration: Instant
-Special:
+{"publish":true,"created":"2025-10-31T18:56:15.062-07:00","modified":"2025-10-31T16:32:07.549-07:00","tags":["magic/spell","class/bard"],"cssclasses":""}
 ---
+
 level 0 - #evocation Casting Time: Action Range: 60 feet Components: V, S Duration: Instantaneous
 
 You create an acidic bubble at a point within range, where it explodes in a 5-foot-radius Sphere. Each creature in that Sphere must succeed on a Dexterity saving throw or take 1d6 Acid damage. 

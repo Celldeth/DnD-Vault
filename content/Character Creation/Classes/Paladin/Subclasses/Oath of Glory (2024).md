@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/paladin/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.747-08:00","modified":"2025-11-02T17:00:02.976-08:00","tags":["gameplay/class/paladin/subclass"],"cssclasses":""}
 ---
+
 *Strive for the Heights of Heroism*
 
 Paladins who take the Oath of Glory believe they and their companions are destined to achieve glory through deeds of heroism. They train  diligently and encourage their companions, so they're all ready when destiny calls.
@@ -28,7 +28,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 | 5             | [[40 References/Spells 2024/Level 2/Enhance Ability\|Enhance Ability]], [[40 References/Spells 2024/Level 2/Magic Weapon\|Magic Weapon]]     |
 | 9             | [[40 References/Spells 2024/Level 3/Haste\|Haste]], [[40 References/Spells 2024/Level 3/Protection from Energy\|Protection from Energy]]     |
 | 13            | [[40 References/Spells 2024/Level 4/Compulsion\|Compulsion]], [[40 References/Spells 2024/Level 4/Freedom of Movement\|Freedom of Movement]] |
-| 17            | [[40 References/Spells 2024/Level 5/Legend Lore\|Legend Lore]], [[Yolande's Regal Presence]]                                                 |
+| 17            | [[40 References/Spells 2024/Level 5/Legend Lore\|Legend Lore]], [[content/References/Spells 2024/Level 5/Yolande's Regal Presence]]                                                 |
 
 ### Level 3: Peerless Athlete
 

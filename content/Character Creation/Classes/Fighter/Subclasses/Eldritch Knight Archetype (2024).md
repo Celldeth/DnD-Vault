@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/fighter/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.679-08:00","modified":"2025-11-02T14:24:22.041-08:00","tags":["gameplay/class/fighter/subclass"],"cssclasses":""}
 ---
+
 *Support Combat Skills with Arcane Magic*
 
 Eldritch Knights combine the martial mastery common to all Fighters with a careful study of magic. Their spells both complement and extend their combat skills, providing additional protection to shore up their armor and also allowing them to engage many foes at once with explosive magic.

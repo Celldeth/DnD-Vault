@@ -7,26 +7,26 @@ _You must have an Intelligence score of 13 or higher in order to multiclass in o
 ##### The Artificer Spell Slots per Spell Level 
 | Level                                            | Proficiency Bonus | Features | Infusions Known | Infused Items | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th |
 | ------------- | --------------------------- | ------------------------------------------------ | ----------------- | -------- | --------------- | ------------- | -------------- | --- | --- | --- |
-| 1st           | +2                          | [[#Magical Tinkering]], [[#Spellcasting]]                  | -                 | -        | 2               | 2             | -              | -   | -   | -   |    
-| 2nd           | +2                          | [[#Infuse Item]]                                      | 4                 | 2        | 2               | 2             | -              | -   | -   | -   |    
-| 3rd           | +2                          | [[#Artificer Specialist]], [[#The Right Tool for the Job]] | 4                 | 2        | 2               | 3             | -              | -   | -   | -   |   
-| 4th           | +2                          | [[#Ability Score Improvement]]                        | 4                 | 2        | 2               | 3             | -              | -   | -   | -   |   
-| 5th           | +3                          | [[#Artificer Specialist]]                     | 4                 | 2        | 2               | 4             | 2              | -   | -   | -   |   
-| 6th           | +3                          | [[#Tool Expertise]]                                   | 6                 | 3        | 2               | 4             | 2              | -   | -   | -   |    
-| 7th           | +3                          | [[#Flash of Genius]]                                  | 6                 | 3        | 2               | 4             | 3              | -   | -   | -   |    
-| 8th           | +3                          | [[#Ability Score Improvement]]                        | 6                 | 3        | 2               | 4             | 3              | -   | -   | -   |     
-| 9th           | +4                          | [[#Artificer Specialist]]                     | 6                 | 3        | 2               | 4             | 3              | 2   | -   | -   |    
-| 10th          | +4                          | [[#Magic Item Adept]]                                 | 8                 | 4        | 3               | 4             | 3              | 2   | -   | -   |    
-| 11th          | +4                          | [[#Spell-Storing Item]]                               | 8                 | 4        | 3               | 4             | 3              | 3   | -   | -   |    
-| 12th          | +4                          | [[#Ability Score Improvement]]                        | 8                 | 4        | 3               | 4             | 3              | 3   | -   | -   |     
+| 1st           | +2                          | [[content/Character Creation/Classes/Artificer/Artificer#Magical Tinkering]], [[content/Character Creation/Classes/Artificer/Artificer#Spellcasting]]                  | -                 | -        | 2               | 2             | -              | -   | -   | -   |    
+| 2nd           | +2                          | [[content/Character Creation/Classes/Artificer/Artificer#Infuse Item]]                                      | 4                 | 2        | 2               | 2             | -              | -   | -   | -   |    
+| 3rd           | +2                          | [[content/Character Creation/Classes/Artificer/Artificer#Artificer Specialist]], [[content/Character Creation/Classes/Artificer/Artificer#The Right Tool for the Job]] | 4                 | 2        | 2               | 3             | -              | -   | -   | -   |   
+| 4th           | +2                          | [[content/Character Creation/Classes/Artificer/Artificer#Ability Score Improvement]]                        | 4                 | 2        | 2               | 3             | -              | -   | -   | -   |   
+| 5th           | +3                          | [[content/Character Creation/Classes/Artificer/Artificer#Artificer Specialist]]                     | 4                 | 2        | 2               | 4             | 2              | -   | -   | -   |   
+| 6th           | +3                          | [[content/Character Creation/Classes/Artificer/Artificer#Tool Expertise]]                                   | 6                 | 3        | 2               | 4             | 2              | -   | -   | -   |    
+| 7th           | +3                          | [[content/Character Creation/Classes/Artificer/Artificer#Flash of Genius]]                                  | 6                 | 3        | 2               | 4             | 3              | -   | -   | -   |    
+| 8th           | +3                          | [[content/Character Creation/Classes/Artificer/Artificer#Ability Score Improvement]]                        | 6                 | 3        | 2               | 4             | 3              | -   | -   | -   |     
+| 9th           | +4                          | [[content/Character Creation/Classes/Artificer/Artificer#Artificer Specialist]]                     | 6                 | 3        | 2               | 4             | 3              | 2   | -   | -   |    
+| 10th          | +4                          | [[content/Character Creation/Classes/Artificer/Artificer#Magic Item Adept]]                                 | 8                 | 4        | 3               | 4             | 3              | 2   | -   | -   |    
+| 11th          | +4                          | [[content/Character Creation/Classes/Artificer/Artificer#Spell-Storing Item]]                               | 8                 | 4        | 3               | 4             | 3              | 3   | -   | -   |    
+| 12th          | +4                          | [[content/Character Creation/Classes/Artificer/Artificer#Ability Score Improvement]]                        | 8                 | 4        | 3               | 4             | 3              | 3   | -   | -   |     
 | 13th          | +5                          | -                                                | 8                 | 4        | 3               | 4             | 3              | 3   | 1   | -   |     
-| 14th          | +5                          | [[#Magic Item Savant]]                                | 10                | 5        | 4               | 4             | 3              | 3   | 1   | -   |    
-| 15th          | +5                          | [[#Artificer Specialist]]                     | 10                | 5        | 4               | 4             | 3              | 3   | 2   | -   |   
-| 16th          | +5                          | [[#Ability Score Improvement]]                        | 10                | 5        | 4               | 4             | 3              | 3   | 2   | -   |   
+| 14th          | +5                          | [[content/Character Creation/Classes/Artificer/Artificer#Magic Item Savant]]                                | 10                | 5        | 4               | 4             | 3              | 3   | 1   | -   |    
+| 15th          | +5                          | [[content/Character Creation/Classes/Artificer/Artificer#Artificer Specialist]]                     | 10                | 5        | 4               | 4             | 3              | 3   | 2   | -   |   
+| 16th          | +5                          | [[content/Character Creation/Classes/Artificer/Artificer#Ability Score Improvement]]                        | 10                | 5        | 4               | 4             | 3              | 3   | 2   | -   |   
 | 17th          | +6                          | -                                                | 10                | 5        | 4               | 4             | 3              | 3   | 3   | 1   |   
-| 18th          | +6                          | [[#Magic Item Master]]                                | 12                | 6        | 4               | 4             | 3              | 3   | 3   | 1   |    
-| 19th          | +6                          | [[#Ability Score Improvement]]                        | 12                | 6        | 4               | 4             | 3              | 3   | 3   | 2   |   
-| 20th          | +6                          | [[#Soul of Artifice]]                                 | 12                | 6        | 4               | 4             | 3              | 3   | 3   | 2   |    
+| 18th          | +6                          | [[content/Character Creation/Classes/Artificer/Artificer#Magic Item Master]]                                | 12                | 6        | 4               | 4             | 3              | 3   | 3   | 1   |    
+| 19th          | +6                          | [[content/Character Creation/Classes/Artificer/Artificer#Ability Score Improvement]]                        | 12                | 6        | 4               | 4             | 3              | 3   | 3   | 2   |   
+| 20th          | +6                          | [[content/Character Creation/Classes/Artificer/Artificer#Soul of Artifice]]                                 | 12                | 6        | 4               | 4             | 3              | 3   | 3   | 2   |    
 
 ### Class Features
 
@@ -119,13 +119,13 @@ At 2nd level, you've gained the ability to imbue mundane items with certain magi
 
 ##### Infusions Known
 
-When you gain this feature, pick four [[Artificer Infusions]] to learn. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
+When you gain this feature, pick four [[content/Character Creation/Classes/Artificer/Artificer Infusions]] to learn. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
 
-Whenever you gain a level in this class, you can replace one of the [[Artificer Infusions]] you learned with a new one.
+Whenever you gain a level in this class, you can replace one of the [[content/Character Creation/Classes/Artificer/Artificer Infusions]] you learned with a new one.
 
 ##### Infusing an Item
 
-Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your [[Artificer Infusions]], turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see the attunement rules in the _Dungeon Master's Guide_).
+Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your [[content/Character Creation/Classes/Artificer/Artificer Infusions]], turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see the attunement rules in the _Dungeon Master's Guide_).
 
 Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you replace your knowledge of the infusion.
 
@@ -137,10 +137,10 @@ If an infusion ends on an item that contains other things, like a bag of holding
 
 At 3rd level, you choose the type of specialist you are. Your choice grants you features at 5th level and again at 9th and 15th level.
 
-- [[Artificer Alchemist]]
-- [[Artificer Armorer]]
-- [[Artificer Artillerist]]
-- [[Artificer Battlesmith]]
+- [[content/Character Creation/Classes/Artificer/Subclasses/Artificer Alchemist]]
+- [[content/Character Creation/Classes/Artificer/Subclasses/Artificer Armorer]]
+- [[content/Character Creation/Classes/Artificer/Subclasses/Artificer Artillerist]]
+- [[content/Character Creation/Classes/Artificer/Subclasses/Artificer Battlesmith]]
 
 ***
 - Forge Adept
@@ -198,4 +198,4 @@ At 20th level, you develop a mystical connection to your magic items, which you 
 
 -   You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
 
--   If you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your [[Artificer Infusions]], causing you to drop to 1 hit point instead of 0.
+-   If you're reduced to 0 hit points but not killed out-right, you can use your reaction to end one of your [[content/Character Creation/Classes/Artificer/Artificer Infusions]], causing you to drop to 1 hit point instead of 0.

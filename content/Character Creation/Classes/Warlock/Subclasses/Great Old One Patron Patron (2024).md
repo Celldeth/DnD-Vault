@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/warlock/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.889-08:00","modified":"2025-11-04T14:28:46.060-08:00","tags":["gameplay/class/warlock/subclass"],"cssclasses":""}
 ---
+
 *Unearth Forbidden Lore of Ineffable Beings*
 
 When you choose this subclass, you might bind yourself to an unspeakable being from the Far Realm or an elder god-a being such as Tharizdun, the Chained God; Zargon, the Returner; Hadar, the Dark Hunger; or Great Cthulhu. Or you might invoke several entities without yoking yourself to one. The motives of these beings are incomprehensible, and the Great Old One might be indifferent to your existence. But the secrets you've learned nevertheless allow you to draw strange magic from it.
@@ -18,9 +18,9 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells                                                                                                                                             |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | [[40 References/Spells 2024/Level 2/Detect Thoughts\|Detect Thoughts]], [[Dissonant Whispers]], [[Phantasmal Force]], [[Tasha's Hideous Laughter]] |
-| 5             | [[40 References/Spells 2024/Level 3/Clairvoyance\|Clairvoyance]], [[Hunger of Hadar]]                                                              |
-| 7             | [[40 References/Spells 2024/Level 4/Confusion\|Confusion]], [[Summon Aberration]]                                                                  |
+| 3             | [[40 References/Spells 2024/Level 2/Detect Thoughts\|Detect Thoughts]], [[content/References/Spells 2024/Level 1/Dissonant Whispers]], [[content/References/Spells 2024/Level 2/Phantasmal Force]], [[content/References/Spells 2024/Level 1/Tasha's Hideous Laughter]] |
+| 5             | [[40 References/Spells 2024/Level 3/Clairvoyance\|Clairvoyance]], [[content/References/Spells 2024/Level 3/Hunger of Hadar]]                                                              |
+| 7             | [[40 References/Spells 2024/Level 4/Confusion\|Confusion]], [[content/References/Spells 2024/Level 4/Summon Aberration]]                                                                  |
 | 9             | [[40 References/Spells 2024/Level 5/Modify Memory\|Modify Memory]], [[40 References/Spells 2024/Level 5/Telekinesis\|Telekinesis]]                 |
 
 ### Level 3: Psychic Spells

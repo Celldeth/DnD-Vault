@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/paladin/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.761-08:00","modified":"2025-11-02T17:33:08.542-08:00","tags":["gameplay/class/paladin/subclass"],"cssclasses":""}
 ---
+
 *Punish Evildoers at Any Cost*
 
 The Oath of Vengeance is a solemn commitment to punish those who have committed grievously evil acts. When evil armies slaughter helpless villagers, when a tyrant defies the will of the gods, when a thieves' guild grows too violent, when a dragon rampages through the countryside at times like these, paladins arise and swear an Oath of Vengeance to set right what has gone wrong.

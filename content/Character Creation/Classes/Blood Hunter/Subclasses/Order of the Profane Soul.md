@@ -30,13 +30,13 @@ When you reach 3rd level, you strike a bargain with an otherworldly being of you
 
 - [[Pact of the Archfey]]
 - [[Pact of the Celestial]]
-- [[Pact of the Fathomless]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Fathomless]]
 - [[Pact of the Fiend]]
 - [[Pact of the Great Old One]]
-- [[Pact of the Hexblade]]
-- [[Pact of the Genie]]
-- [[Pact of the Undead]]
-- [[Pact of the Undying]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Hexblade]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Genie]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Undead]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Undying]]
 
 The choice you make augments some of your subclass features, as noted below.
 
@@ -137,4 +137,4 @@ At 15th level, your patron grants you the use of an additional spell based on yo
 
 ### Blood Curse of the Souleater
 
-Starting at 18th level, you learn to siphon the life energy from your fallen prey. You gain the [[Blood Curses#Blood Curse of the Soul Eater|Blood Curse of the Soul Eater]] for your Blood Maledict feature. This doesn’t count against your number of [[Blood Curses]] known.
+Starting at 18th level, you learn to siphon the life energy from your fallen prey. You gain the [[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Soul Eater\|Blood Curse of the Soul Eater]] for your Blood Maledict feature. This doesn’t count against your number of [[content/Character Creation/Classes/Blood Hunter/Blood Curses]] known.

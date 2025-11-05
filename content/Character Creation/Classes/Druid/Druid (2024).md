@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.625-08:00","modified":"2025-11-02T12:57:21.374-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 > [!summary] Core Druid Traits
 > **Primary Ability**  -  Wisdom
@@ -166,14 +166,14 @@ When you cast the spell in this way, the familiar is Fey and disappears when you
 
 You gain a Druid subclass of your choice. Subclasses are detailed after this class’s description. A subclass is a specialization that grants you features at certain Druid levels. For the rest of your career, you gain each of your subclass’s features that are of your Druid level or lower.
 
-- [[Circle of Dreams]]
-- [[Circle of the Land (2024)]]
-- [[Circle of the Moon (2024)]]
-- [[Circle of the Sea (2024)]]
-- [[Circle of Shepherd]]
-- [[Circle of Spores]]
-- [[Circle of the Stars (2024)]]
-- [[Circle of Wildfire]]
+- [[content/Character Creation/Classes/Druid/Subclasses/Circle of Dreams]]
+- [[content/Character Creation/Classes/Druid/Subclasses/Circle of the Land (2024)]]
+- [[content/Character Creation/Classes/Druid/Subclasses/Circle of the Moon (2024)]]
+- [[content/Character Creation/Classes/Druid/Subclasses/Circle of the Sea (2024)]]
+- [[content/Character Creation/Classes/Druid/Subclasses/Circle of Shepherd]]
+- [[content/Character Creation/Classes/Druid/Subclasses/Circle of Spores]]
+- [[content/Character Creation/Classes/Druid/Subclasses/Circle of the Stars (2024)]]
+- [[content/Character Creation/Classes/Druid/Subclasses/Circle of Wildfire]]
 
 ### Level 4: Ability Score Improvement
 

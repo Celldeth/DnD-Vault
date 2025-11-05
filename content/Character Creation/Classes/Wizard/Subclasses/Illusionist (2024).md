@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/wizard/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.931-08:00","modified":"2025-11-04T14:54:42.408-08:00","tags":["gameplay/class/wizard/subclass"],"cssclasses":""}
 ---
+
 *Weave Subtle Spells of Deception*
 
 You specialize in magic that dazzles the senses and tricks the mind, and the illusions you craft make the impossible seem real.

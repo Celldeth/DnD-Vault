@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/sorcerer/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.851-08:00","modified":"2025-11-04T13:34:54.636-08:00","tags":["gameplay/class/sorcerer/subclass"],"cssclasses":""}
 ---
+
 *Wield Unnatural Psionic Power*
 
 An alien influence has wrapped its tendrils around your mind, giving you psionic power. You can now touch other minds with that power and alter the world around you. Will this power shine from you as a hopeful beacon to others? Or will you be a terror to those who feel the stab of your mind?
@@ -16,10 +16,10 @@ When you reach a Sorcerer level specified in the Psionic Spells table, you there
 
 | Sorcerer Level | Spells                                                                                                                                                                                                 |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3              | [[Arms of Hadar]], [[40 References/Spells 2024/Level 2/Calm Emotions\|Calm Emotions]], [[40 References/Spells 2024/Level 2/Detect Thoughts\|Detect Thoughts]], [[Dissonant Whispers]], [[Mind Sliver]] |
-| 5              | [[Hunger of Hadar]], [[40 References/Spells 2024/Level 3/Sending\|Sending]]                                                                                                                            |
-| 7              | [[Evard's Black Tentacles]], [[Summon Aberration]]                                                                                                                                                     |
-| 9              | [[Rary's Telepathic Bond]], [[40 References/Spells 2024/Level 5/Telekinesis\|Telekinesis]]                                                                                                             |
+| 3              | [[content/References/Spells 2024/Level 1/Arms of Hadar]], [[40 References/Spells 2024/Level 2/Calm Emotions\|Calm Emotions]], [[40 References/Spells 2024/Level 2/Detect Thoughts\|Detect Thoughts]], [[content/References/Spells 2024/Level 1/Dissonant Whispers]], [[content/References/Spells 2024/Level 0/Mind Sliver]] |
+| 5              | [[content/References/Spells 2024/Level 3/Hunger of Hadar]], [[40 References/Spells 2024/Level 3/Sending\|Sending]]                                                                                                                            |
+| 7              | [[content/References/Spells 2024/Level 4/Evard's Black Tentacles]], [[content/References/Spells 2024/Level 4/Summon Aberration]]                                                                                                                                                     |
+| 9              | [[content/References/Spells 2024/Level 5/Rary's Telepathic Bond]], [[40 References/Spells 2024/Level 5/Telekinesis\|Telekinesis]]                                                                                                             |
 
 ### Level 3: Telepathic Speech
 

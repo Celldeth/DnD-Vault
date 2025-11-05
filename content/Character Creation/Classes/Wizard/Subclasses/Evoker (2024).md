@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/wizard/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.928-08:00","modified":"2025-11-04T14:44:27.083-08:00","tags":["gameplay/class/wizard/subclass"],"cssclasses":""}
 ---
+
 _Create Explosive Elemental Effects_
 
 Your studies focus on magic that creates powerful elemental effects such as bitter cold, searing flame, rolling thunder, crackling lightning, and burning acid. Some Evokers find employment in military forces, serving as artillery to blast armies from afar. Others use their power to protect others, while some seek their own gain.

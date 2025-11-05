@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/druid/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.648-08:00","modified":"2025-11-02T12:56:26.390-08:00","tags":["gameplay/class/druid/subclass"],"cssclasses":""}
 ---
+
 *Harness Secrets Hidden in Constellations*
 
 The Circle of the Stars has tracked heavenly patterns since time immemorial, discovering secrets hidden amid the constellations. By understanding these secrets, the Druids of this circle seek to harness the powers of the cosmos.

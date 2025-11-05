@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.484-08:00","modified":"2025-11-03T16:30:55.168-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 > [!summary] Core Barbarian Traits
 > **Primary Ability**  -  Strength
@@ -101,16 +101,16 @@ You can throw aside all concern for defense to attack with increased ferocity. W
 
 You gain a Barbarian subclass of your choice. Available barbarian subclasses are listed below. A subclass is a specialization that grants you features at certain Barbarian levels. For the rest of your career, you gain each of your subclass’s features that are of your Barbarian level or lower.
 
-- [[Path of the Ancestral Guardian]]
-- [[Path of the Battlerager]]
-- [[Path of the Beast]]
-- [[Path of the Berserker (2024)]]
-- [[Path of the Juggernaut]]
-- [[Path of the Storm Herald]]
-- [[Path of the Wild Heart (2024)]]
-- [[Path of the Wild Magic]]
-- [[Path of the World Tree (2024)]]
-- [[Path of the Zealot (2024)]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Ancestral Guardian]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Battlerager]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Beast]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Berserker (2024)]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Juggernaut]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Storm Herald]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Wild Heart (2024)]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Wild Magic]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the World Tree (2024)]]
+- [[content/Character Creation/Classes/Barbarian/Subclasses/Path of the Zealot (2024)]]
 
 ### Level 3: Primal Knowledge
 

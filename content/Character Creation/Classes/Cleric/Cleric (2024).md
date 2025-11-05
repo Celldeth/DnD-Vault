@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.568-08:00","modified":"2025-11-02T11:37:47.330-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 
 >[!summary] Core Cleric Traits
@@ -134,29 +134,29 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 
 You gain a Cleric subclass of your choice. The Life Domain subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Cleric levels. For the rest of your career, you gain each of your subclass’s features that are of your Cleric level or lower.
 
-- [[Arcana Domain]]
-- [[Death Domain]]
-- [[Forge Domain]]
-- [[Grave Domain]]
-- [[Knowledge Domain]]
-- [[Life Domain (2024)]]
-- [[Light Domain (2024)]]
-- [[Nature Domain]]
-- [[Order Domain]]
-- [[Peace Domain]]
-- [[Tempest Domain]]
-- [[Trickery Domain (2024)]]
-- [[Twilight Domain]]
-- [[War Domain (2024)]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Arcana Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Death Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Forge Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Grave Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Knowledge Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Life Domain (2024)]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Light Domain (2024)]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Nature Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Order Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Peace Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Tempest Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Trickery Domain (2024)]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Twilight Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/War Domain (2024)]]
 ___
 **The Following Domains are subject to change**
 
-- [[Ambition Domain]]
-- [[Blood Domain]]
-- [[Mind Domain]]
-- [[Solidarity Domain]]
-- [[Strength Domain]]
-- [[Zeal Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Ambition Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Blood Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Mind Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Solidarity Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Strength Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Zeal Domain]]
 
 ### Level 4: Ability Score Improvement
 

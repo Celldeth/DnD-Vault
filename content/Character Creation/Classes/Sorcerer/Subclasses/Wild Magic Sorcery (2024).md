@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/sorcerer/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.865-08:00","modified":"2025-11-04T13:35:28.785-08:00","tags":["gameplay/class/sorcerer/subclass"],"cssclasses":""}
 ---
+
 *Unleash Chaotic Magic*
 
 Your innate magic stems from the forces of chaos that underlie the order of creation. You or an ancestor might have endured exposure to raw magic, perhaps through a planar portal leading to Limbo or the Elemental Planes. Perhaps you were blessed by a fey being or marked by a demon. Or your magic could be a fluke with no apparent cause. Whatever its source, this magic churns within you, waiting for any outlet.

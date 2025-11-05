@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/ranger/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.785-08:00","modified":"2025-11-03T16:17:35.374-08:00","tags":["gameplay/class/ranger/subclass"],"cssclasses":""}
 ---
+
 *Wield Fey Mirth and Fury*
 
 A fey mystique surrounds you, thanks to the boon of an archfey or a location in the Feywild that transformed you. However you gained fey magic, you are now a Fey Wanderer. Your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.
@@ -20,7 +20,7 @@ When you reach a Ranger level specified in the Fey Wanderer Spells table, you th
 | ------------ | -------------------------------------------------------------------- |
 | 3            | [[40 References/Spells 2024/Level 1/Charm Person\|Charm Person]]     |
 | 5            | [[40 References/Spells 2024/Level 2/Misty Step\|Misty Step]]         |
-| 9            | [[Summon Fey]]                                                       |
+| 9            | [[content/References/Spells 2024/Level 3/Summon Fey]]                                                       |
 | 13           | [[40 References/Spells 2024/Level 4/Dimension Door\|Dimension Door]] |
 | 17           | [[40 References/Spells 2024/Level 5/Mislead\|Mislead]]               |
 

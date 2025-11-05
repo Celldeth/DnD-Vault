@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/feat
+{"publish":true,"created":"2025-11-05T11:09:09.959-08:00","modified":"2025-11-02T13:12:52.855-08:00","tags":["gameplay/feat"],"cssclasses":""}
 ---
+
 # Origin Feats
 *These feats are in the Origin category*
 

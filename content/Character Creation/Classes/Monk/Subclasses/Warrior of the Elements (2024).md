@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/monk/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.710-08:00","modified":"2025-11-02T15:54:36.520-08:00","tags":["gameplay/class/monk/subclass"],"cssclasses":""}
 ---
+
 *Wield Strikes and Bursts of Elemental Power*
 
 Warriors of the Elements tap into the power of the Elemental Planes. Harnessing their supernatural focus, these Monks momentarily tame the energy of the Elemental Chaos to empower themselves in and out of battle.
@@ -16,7 +16,7 @@ At the start of your turn, you can expend 1 Focus Point to imbue yourself with e
 
 ### Level 3: Manipulate Elements
 
-You know the [[Elementalism]] spell. Wisdom is your spellcasting ability for it.
+You know the [[content/References/Spells 2024/Level 0/Elementalism]] spell. Wisdom is your spellcasting ability for it.
 
 ### Level 6: Elemental Burst
 

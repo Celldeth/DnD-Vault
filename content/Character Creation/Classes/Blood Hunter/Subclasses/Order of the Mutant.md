@@ -3,11 +3,11 @@
 
 ### Mutagencraft
 
-When you choose this archetype at 3rd level, you learn to master forbidden alchemical formulas—known as [[Mutagens]]—that can temporarily alter your mental and physical abilities.
+When you choose this archetype at 3rd level, you learn to master forbidden alchemical formulas—known as [[content/Character Creation/Classes/Blood Hunter/Mutagens]]—that can temporarily alter your mental and physical abilities.
 
-As a bonus action, you consume a mutagen, whose effects and side effects last until you finish a short or long rest unless otherwise specified. While one or more [[Mutagens]] are affecting you, you can use an action to focus and flush all [[Mutagens]] from your system, ending their effects and side effects.
+As a bonus action, you consume a mutagen, whose effects and side effects last until you finish a short or long rest unless otherwise specified. While one or more [[content/Character Creation/Classes/Blood Hunter/Mutagens]] are affecting you, you can use an action to focus and flush all [[content/Character Creation/Classes/Blood Hunter/Mutagens]] from your system, ending their effects and side effects.
 
-[[Mutagens]] are designed for the specific biology of the character who concocted them, and your [[Mutagens]] have no effect on other creatures. They are also unstable by nature, losing their potency over time and becoming inert if not used before you finish your next short or long rest.
+[[content/Character Creation/Classes/Blood Hunter/Mutagens]] are designed for the specific biology of the character who concocted them, and your [[content/Character Creation/Classes/Blood Hunter/Mutagens]] have no effect on other creatures. They are also unstable by nature, losing their potency over time and becoming inert if not used before you finish your next short or long rest.
 
 | Blood Hunter Level | Mutagens Created | Formulas Known |
 | ------------------ | ---------------- | -------------- |
@@ -19,7 +19,7 @@ As a bonus action, you consume a mutagen, whose effects and side effects last un
 
 ### Formulas
 
-The number of [[Mutagens]] you can concoct when you finish a rest, and the number of formulas you know, increases as you gain levels in the blood hunter class, as shown on the Mutagencraft table above. Additionally, when you learn a new mutagen formula, you can replace one formula you already know with a new mutagen formula. You choose four mutagen formulas to learn, and you can concoct one mutagen when you finish a short or long rest.
+The number of [[content/Character Creation/Classes/Blood Hunter/Mutagens]] you can concoct when you finish a rest, and the number of formulas you know, increases as you gain levels in the blood hunter class, as shown on the Mutagencraft table above. Additionally, when you learn a new mutagen formula, you can replace one formula you already know with a new mutagen formula. You choose four mutagen formulas to learn, and you can concoct one mutagen when you finish a short or long rest.
 
 ### Strange Metabolism
 
@@ -33,10 +33,10 @@ At 11th level, your mutagenic hemocraft lets your Brand of Castigation reveal a 
 
 ### Blood Curse of Corrosion
 
-Starting at 15th level, your blood curse can infuse a creature’s body with terrible toxins. You gain the Blood Curse of Corrosion for your Blood Maledict feature. This doesn’t count against your number of [[Blood Curses]] known.
+Starting at 15th level, your blood curse can infuse a creature’s body with terrible toxins. You gain the Blood Curse of Corrosion for your Blood Maledict feature. This doesn’t count against your number of [[content/Character Creation/Classes/Blood Hunter/Blood Curses]] known.
 
 ### Exalted Mutation
 
-At 18th level, your body has adapted to produce [[Mutagens]] naturally in a moment of need. As a bonus action, choose one mutagen currently affecting you. Its effects and side effects end, and you can immediately have a mutagen you know the formula for take effect in its place.
+At 18th level, your body has adapted to produce [[content/Character Creation/Classes/Blood Hunter/Mutagens]] naturally in a moment of need. As a bonus action, choose one mutagen currently affecting you. Its effects and side effects end, and you can immediately have a mutagen you know the formula for take effect in its place.
 
 You can use this feature a number of times equal to your Hemocraft modifier (minimum of once). You regain all expended uses when you finish a long rest.

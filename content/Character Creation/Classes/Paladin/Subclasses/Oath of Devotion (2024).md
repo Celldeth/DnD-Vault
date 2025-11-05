@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/paladin/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.744-08:00","modified":"2025-11-02T16:48:18.023-08:00","tags":["gameplay/class/paladin/subclass"],"cssclasses":""}
 ---
+
 *Uphold the Ideals of Justice and Order*
 
 The Oath of Devotion binds Paladins to the ideals of justice and order. These Paladins meet the archetype of the knight in shining armor. They hold themselves to the highest standards of conduct, and some-for better or worse-hold the rest of the world to the same standards.

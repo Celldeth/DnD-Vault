@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/sorcerer/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.884-08:00","modified":"2025-11-04T14:04:39.459-08:00","tags":["gameplay/class/sorcerer/subclass"],"cssclasses":""}
 ---
+
 *Bargain with Whimsical Fey*
 
 Your pact draws on the power of the Feywild. When you choose this subclass, you might make a deal with an archfey, such as the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; or an ancient hag. Or you might call on a spectrum of Fey, weaving a web of favors and debts. Whoever they are, your patron is often inscrutable and whimsical.
@@ -14,7 +14,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 
 | Warlock Level | Spells                                                                                                                                                                                                                                                                     |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | [[40 References/Spells 2024/Level 2/Calm Emotions\|Calm Emotions]], [[40 References/Spells 2024/Level 1/Faerie Fire\|Faerie Fire]], [[40 References/Spells 2024/Level 2/Misty Step\|Misty Step]], [[Phantasmal Force]], [[40 References/Spells 2024/Level 1/Sleep\|Sleep]] |
+| 3             | [[40 References/Spells 2024/Level 2/Calm Emotions\|Calm Emotions]], [[40 References/Spells 2024/Level 1/Faerie Fire\|Faerie Fire]], [[40 References/Spells 2024/Level 2/Misty Step\|Misty Step]], [[content/References/Spells 2024/Level 2/Phantasmal Force]], [[40 References/Spells 2024/Level 1/Sleep\|Sleep]] |
 | 5             | [[40 References/Spells 2024/Level 3/Blink\|Blink]], [[40 References/Spells 2024/Level 3/Plant Growth\|Plant Growth]]                                                                                                                                                       |
 | 7             | [[40 References/Spells 2024/Level 4/Dominate Beast\|Dominate Beast]], [[40 References/Spells 2024/Level 4/Greater Invisibility\|Greater Invisibility]]                                                                                                                     |
 | 9             | [[40 References/Spells 2024/Level 5/Dominate Person\|Dominate Person]], [[40 References/Spells 2024/Level 5/Seeming\|Seeming]]                                                                                                                                             |

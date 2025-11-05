@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/cleric/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.615-08:00","modified":"2025-11-02T11:41:24.866-08:00","tags":["gameplay/class/cleric/subclass"],"cssclasses":""}
 ---
+
 *Inspire Valor and Smite Foes*
 
 War has many manifestations. It can make heroes of ordinary people. It can be desperate and horrific, with acts of cruelty and cowardice eclipsing instances of excellence and courage. Clerics who tap into the magic of the War Domain excel in battle, inspiring others to fight the good fight or offering acts of violence as prayers.

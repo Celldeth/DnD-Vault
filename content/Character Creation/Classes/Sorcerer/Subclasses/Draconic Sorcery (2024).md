@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/sorcerer/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.859-08:00","modified":"2025-11-04T13:47:34.312-08:00","tags":["gameplay/class/sorcerer/subclass"],"cssclasses":""}
 ---
+
 _Breathe the Magic of Dragons_
 
 Your innate magic comes from the gift of a dragon. Perhaps an ancient dragon facing death bequeathed some of its magical power to you or your ancestor. You might have absorbed magic from a site infused with dragons’ power. Or perhaps you handled a treasure taken from a dragon’s hoard that was steeped in draconic power. Or you might have a dragon for an ancestor.
@@ -20,10 +20,10 @@ When you reach a Sorcerer level specified in the Draconic Spells table, you ther
 
 | Sorcerer Level | Spells                                                                                                                                                       |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 3              | [[40 References/Spells 2024/Level 2/Alter Self\|Alter Self]], [[Chromatic Orb]], [[40 References/Spells 2024/Level 1/Command\|Command]], [[Dragon's Breath]] |
+| 3              | [[40 References/Spells 2024/Level 2/Alter Self\|Alter Self]], [[content/References/Spells 2024/Level 1/Chromatic Orb]], [[40 References/Spells 2024/Level 1/Command\|Command]], [[content/References/Spells 2024/Level 2/Dragon's Breath]] |
 | 5              | [[40 References/Spells 2024/Level 3/Fear\|Fear]], [[40 References/Spells 2024/Level 3/Fly\|Fly]]                                                             |
-| 7              | [[40 References/Spells 2024/Level 4/Arcane Eye\|Arcane Eye]], [[Charm Monster]]                                                                              |
-| 9              | [[40 References/Spells 2024/Level 5/Legend Lore\|Legend Lore]], [[Summon Dragon]]                                                                            |
+| 7              | [[40 References/Spells 2024/Level 4/Arcane Eye\|Arcane Eye]], [[content/References/Spells 2024/Level 4/Charm Monster]]                                                                              |
+| 9              | [[40 References/Spells 2024/Level 5/Legend Lore\|Legend Lore]], [[content/References/Spells 2024/Level 5/Summon Dragon]]                                                                            |
 
 ### Level 6: Elemental Affinity
 

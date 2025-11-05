@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.807-08:00","modified":"2025-11-03T17:16:19.500-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 
 > [!summary] Core Rogue Traits
@@ -93,15 +93,15 @@ Your quick thinking and agility allow you to move and act quickly. On your turn,
 
 You gain a Rogue subclass of your choice. Subclasses are listed below. A subclass is a specialization that grants you features at certain Rogue levels. For the rest of your career, you gain each of your subclass’s features that are of your Rogue level or lower.
 
-- [[Arcane Trickster (2024)]]
-- [[Assassin (2024)]]
-- [[Inquisitive]]
-- [[Mastermind]]
-- [[Phantom]]
-- [[Scout]]
-- [[Soulknife (2024)]]
-- [[Swashbuckler]]
-- [[Thief (2024)]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Arcane Trickster (2024)]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Assassin (2024)]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Inquisitive]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Mastermind]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Phantom]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Scout]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Soulknife (2024)]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Swashbuckler]]
+- [[content/Character Creation/Classes/Rogue/Subclasses/Thief (2024)]]
 
 ### Level 3: Steady Aim
 

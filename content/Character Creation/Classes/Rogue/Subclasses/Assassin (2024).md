@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/rogue/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.818-08:00","modified":"2025-11-03T17:06:00.306-08:00","tags":["gameplay/class/rogue/subclass"],"cssclasses":""}
 ---
+
 *Practice the Grim Art of Death*
 
 An Assassin's training focuses on using stealth, poison, and disguise to eliminate foes with deadly efficiency. While some Rogues who follow this path are hired killers, spies, or bounty hunters, the capabilities of this subclass are equally useful for adventurers facing a variety of monstrous enemies.

@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/monk/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.706-08:00","modified":"2025-11-02T15:33:54.386-08:00","tags":["gameplay/class/monk/subclass"],"cssclasses":""}
 ---
+
 *Manipulate Forces of Life and Death*
 
 Warriors of Mercy manipulate the life force of others. These Monks are wandering physicians, but they bring a swift end to their enemies. They often wear masks, presenting themselves as faceless bringers of life and death.

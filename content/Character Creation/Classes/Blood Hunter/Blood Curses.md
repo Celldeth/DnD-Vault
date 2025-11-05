@@ -1,16 +1,16 @@
 Table of Contents
-[[#Blood Curse of the Anxious]]
-[[#Blood Curse of Binding]]
-[[#Blood Curse of Bloated Agony]]
-[[#Blood Curse of Corrosion]]
-[[#Blood Curse of the Exorcist]]
-[[#Blood Curse of Exposure]]
-[[#Blood Curse of the Eyeless]]
-[[#Blood Curse of the Fallen Puppet]]
-[[#Blood Curse of the Howl]]
-[[#Blood Curse of the Marked]]
-[[#Blood Curse of the Muddled Mind]]
-[[#Blood Curse of the Soul Eater]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Anxious]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of Binding]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of Bloated Agony]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of Corrosion]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Exorcist]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of Exposure]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Eyeless]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Fallen Puppet]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Howl]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Marked]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Muddled Mind]]
+[[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Soul Eater]]
 
 ###### Blood Curse of the Anxious
 

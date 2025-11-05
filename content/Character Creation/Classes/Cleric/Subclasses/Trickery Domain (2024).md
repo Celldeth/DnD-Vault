@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/cleric/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.610-08:00","modified":"2025-11-02T11:49:06.149-08:00","tags":["gameplay/class/cleric/subclass"],"cssclasses":""}
 ---
+
 *Make Mischief and Challenge Authority*
 
 The Trickery Domain offers magic of deception, illusion, and stealth. Clerics who wield this magic are a disruptive force in the world, puncturing pride, mocking tyrants, freeing captives, and flouting hollow traditions. They prefer subterfuge and pranks to direct confrontation. 

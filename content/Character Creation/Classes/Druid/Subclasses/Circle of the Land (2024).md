@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/druid/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.642-08:00","modified":"2025-11-02T12:21:10.275-08:00","tags":["gameplay/class/druid/subclass"],"cssclasses":""}
 ---
+
 *Celebrate Connection to the Natural World*
 
 The Circle of the Land comprises mystics and sages who safeguard ancient knowledge and rites. These Druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of their communities.
@@ -49,7 +49,7 @@ Whenever you finish a Long Rest, choose one type of land: arid, polar, temperate
 
 | Druid Level | Circle Spells                                                                                                                       |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 3           | [[40 References/Spells 2024/Level 0/Acid Splash\|Acid Splash]], [[Ray of Sickness]], [[40 References/Spells 2024/Level 2/Web\|Web]] |
+| 3           | [[40 References/Spells 2024/Level 0/Acid Splash\|Acid Splash]], [[content/References/Spells 2024/Level 1/Ray of Sickness]], [[40 References/Spells 2024/Level 2/Web\|Web]] |
 | 5           | [[40 References/Spells 2024/Level 3/Stinking Cloud\|Stinking Cloud]]                                                                |
 | 7           | [[40 References/Spells 2024/Level 4/Polymorph\|Polymorph]]                                                                          |
 | 9           | [[40 References/Spells 2024/Level 5/Insect Plague\|Insect Plague]]                                                                  |

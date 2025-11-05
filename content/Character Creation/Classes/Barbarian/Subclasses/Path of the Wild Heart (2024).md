@@ -1,14 +1,14 @@
 ---
-tags:
-  - gameplay/class/barbarian/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.503-08:00","modified":"2025-11-02T11:42:59.764-08:00","tags":["gameplay/class/barbarian/subclass"],"cssclasses":""}
 ---
+
 Walk in Community with the Animal World
 
 Barbarians who follow the Path of the Wild Heart view themselves as kin to animals. These Barbarians learn magical means to communicate with animals, and their Rage heightens their connection to animals as it fills them with supernatural might.
 
 ### Level 3: Animal Speaker
 
-You can cast the [[Beast Sense]] and [[40 References/Spells 2014/Speak with Animals]] spells but only as Rituals. Wisdom is your spell casting ability for them.
+You can cast the [[content/References/Spells 2024/Level 2/Beast Sense]] and [[40 References/Spells 2014/Speak with Animals]] spells but only as Rituals. Wisdom is your spell casting ability for them.
 
 ### Level 3: Rage of the Wilds
 

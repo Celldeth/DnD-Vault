@@ -1,7 +1,7 @@
 ---
-tags:
-  - Rift-Knight/Order
+{"publish":true,"created":"2025-10-31T18:56:15.729-07:00","modified":"2025-10-25T13:17:57.371-07:00","tags":["Rift-Knight/Order"],"cssclasses":""}
 ---
+
 
 >*“The Chasm has many gifts. Power to be used against those that would use it against us”*
 >> - Notable

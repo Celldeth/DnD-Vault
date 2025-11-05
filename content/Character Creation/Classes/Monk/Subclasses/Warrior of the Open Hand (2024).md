@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/monk/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.711-08:00","modified":"2025-11-02T15:34:04.753-08:00","tags":["gameplay/class/monk/subclass"],"cssclasses":""}
 ---
+
 _Master Unarmed Combat Techniques_
 
 Warriors of the Open Hand are masters of unarmed combat. They learn techniques to push and trip their opponents and manipulate their own energy to protect themselves from harm.

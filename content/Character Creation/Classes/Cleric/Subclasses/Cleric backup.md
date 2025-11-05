@@ -7,26 +7,26 @@ The Cleric                                                              Spell Sl
 
 | Level | Proficiency Bonus | Features                                                                                                  | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
 | ----- | ----------------- | --------------------------------------------------------------------------------------------------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st   | +2                | [[#Spellcasting]], [[#Divine Domain]]                                                                               | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
-| 2nd   | +2                | [[#Channel Divinity]] (x1), [[#Divine Domain]], [[#Harness Divine Power Optional]]                           | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 1st   | +2                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Spellcasting]], [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Divine Domain]]                                                                               | 3              | 2   | -   | -   | -   | -   | -   | -   | -   | -   |
+| 2nd   | +2                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Channel Divinity]] (x1), [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Divine Domain]], [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Harness Divine Power Optional]]                           | 3              | 3   | -   | -   | -   | -   | -   | -   | -   | -   |
 | 3rd   | +2                | -                                                                                                         | 3              | 4   | 2   | -   | -   | -   | -   | -   | -   | -   |
-| 4th   | +2                | [[#Ability Score Improvement]], [[#Cantrip Versatility Optional]]                                               | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
-| 5th   | +3                | [[#Destroy Undead]] (CR 1/2)                                                                                   | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
-| 6th   | +3                | [[#Channel Divinity]] (x2), [[#Divine Domain]]                                                              | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
+| 4th   | +2                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Ability Score Improvement]], [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Cantrip Versatility Optional]]                                               | 4              | 4   | 3   | -   | -   | -   | -   | -   | -   | -   |
+| 5th   | +3                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Destroy Undead]] (CR 1/2)                                                                                   | 4              | 4   | 3   | 2   | -   | -   | -   | -   | -   | -   |
+| 6th   | +3                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Channel Divinity]] (x2), [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Divine Domain]]                                                              | 4              | 4   | 3   | 3   | -   | -   | -   | -   | -   | -   |
 | 7th   | +3                | -                                                                                                         | 4              | 4   | 3   | 3   | 1   | -   | -   | -   | -   | -   |
-| 8th   | +3                | [[#Ability Score Improvement]], [[#Destroy Undead]] (CR 1), [[#Divine Domain]], [[#Cantrip Versatility Optional]] | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
+| 8th   | +3                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Ability Score Improvement]], [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Destroy Undead]] (CR 1), [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Divine Domain]], [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Cantrip Versatility Optional]] | 4              | 4   | 3   | 3   | 2   | -   | -   | -   | -   | -   |
 | 9th   | +4                | -                                                                                                         | 4              | 4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   |
-| 10th  | +4                | [[#Divine Intervention]]                                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
-| 11th  | +4                | [[#Destroy Undead]] (CR 2)                                                                                     | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
-| 12th  | +4                | [[#Ability Score Improvement]], [[#Cantrip Versatility Optional]]                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 10th  | +4                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Divine Intervention]]                                                                                       | 5              | 4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   |
+| 11th  | +4                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Destroy Undead]] (CR 2)                                                                                     | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
+| 12th  | +4                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Ability Score Improvement]], [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Cantrip Versatility Optional]]                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   |
 | 13th  | +5                | -                                                                                                         | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
-| 14th  | +5                | [[#Destroy Undead]] (CR 3)                                                                                     | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
+| 14th  | +5                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Destroy Undead]] (CR 3)                                                                                     | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   |
 | 15th  | +5                | -                                                                                                         | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 16th  | +5                | [[#Ability Score Improvement]], [[#Cantrip Versatility Optional]]                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
-| 17th  | +6                | [[#Destroy Undead]] (CR 4), [[#Divine Domain]]                                                              | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18th  | +6                | [[#Channel Divinity]] (x3)                                                                                     | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19th  | +6                | [[#Ability Score Improvement]], [[#Cantrip Versatility Optional]]                                               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20th  | +6                | [[#Divine Intervention]]                                                                           | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| 16th  | +5                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Ability Score Improvement]], [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Cantrip Versatility Optional]]                                               | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   |
+| 17th  | +6                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Destroy Undead]] (CR 4), [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Divine Domain]]                                                              | 5              | 4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18th  | +6                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Channel Divinity]] (x3)                                                                                     | 5              | 4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19th  | +6                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Ability Score Improvement]], [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Cantrip Versatility Optional]]                                               | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20th  | +6                | [[content/Character Creation/Classes/Cleric/Subclasses/Cleric backup#Divine Intervention]]                                                                           | 5              | 4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # Class Features
 
@@ -94,29 +94,29 @@ You can use a holy symbol as a spellcasting focus for your cleric spells.
 
 At 1st level, you choose a domain shaped by your choice of Deity and the gifts they grant you. Your choice grants you domain spells and other features when you choose it at 1st level. It also grants you additional ways to use Channel Divinity when you gain that feature at 2nd level, and additional benefits at 6th, 8th, and 17th levels.
 
-- [[Arcana Domain]]
-- [[Death Domain]]
-- [[Forge Domain]]
-- [[Grave Domain]]
-- [[Knowledge Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Arcana Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Death Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Forge Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Grave Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Knowledge Domain]]
 - [[Life Domain]]
 - [[Light Domain]]
-- [[Nature Domain]]
-- [[Order Domain]]
-- [[Peace Domain]]
-- [[Tempest Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Nature Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Order Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Peace Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Tempest Domain]]
 - [[Trickery Domain]]
-- [[Twilight Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Twilight Domain]]
 - [[War Domain]]
 ___
 **The Following Domains are subject to change**
 
-- [[Ambition Domain]]
-- [[Blood Domain]]
-- [[Mind Domain]]
-- [[Solidarity Domain]]
-- [[Strength Domain]]
-- [[Zeal Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Ambition Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Blood Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Mind Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Solidarity Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Strength Domain]]
+- [[content/Character Creation/Classes/Cleric/Subclasses/Zeal Domain]]
 
 
 ##### Domain Spells

@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/bard/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.530-08:00","modified":"2025-11-01T19:24:44.253-07:00","tags":["gameplay/class/bard/subclass"],"cssclasses":""}
 ---
+
 _Plumb the Depths of Magical Knowledge_
 
 Bards of the College of Lore collect spells and secrets from diverse sources, such as scholarly tomes, mystical rites, and peasant tales. The college’s members gather in libraries and universities to share their lore with one another. They also meet at festivals or affairs of state, where they can expose corruption, unravel lies, and poke fun at self-important figures of authority.

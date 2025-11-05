@@ -40,4 +40,4 @@ Starting at 15th level, you have advantage on the saving throw for your bloodlus
 
 At 18th level, you have mastered your inner predator. You can use your Hybrid Transformation feature an unlimited number of times, and your hybrid form lasts until you revert to your normal form, fall unconscious, or die.
 
-You also gain the [[Blood Curses#Blood Curse of the Howl|Blood Curse of the Howl]] for your Blood Maledict feature. This doesn’t count against your number of [[Blood Curses]] known.
+You also gain the [[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Howl\|Blood Curse of the Howl]] for your Blood Maledict feature. This doesn’t count against your number of [[content/Character Creation/Classes/Blood Hunter/Blood Curses]] known.

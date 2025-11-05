@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.841-08:00","modified":"2025-11-04T13:34:36.844-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 
 > [!summary] Core Sorcerer Traits
@@ -147,13 +147,13 @@ Whenever you gain a Sorcerer level, you can replace one of your Metamagic option
 
 You gain a Sorcerer subclass of your choice. Subclasses are listed below. A subclass is a specialization that grants you features at certain Sorcerer levels. For the rest of your career, you gain each of your subclass’s features that are of your Sorcerer level or lower.
 
-- [[Aberrant Sorcery (2024)]]
-- [[Clockwork Sorcery (2024)]]
-- [[Divine Soul]]
-- [[Draconic Sorcery (2024)]]
-- [[Shadow Magic]]
-- [[Storm Sorcery]]
-- [[Wild Magic Sorcery (2024)]]
+- [[content/Character Creation/Classes/Sorcerer/Subclasses/Aberrant Sorcery (2024)]]
+- [[content/Character Creation/Classes/Sorcerer/Subclasses/Clockwork Sorcery (2024)]]
+- [[content/Character Creation/Classes/Sorcerer/Subclasses/Divine Soul]]
+- [[content/Character Creation/Classes/Sorcerer/Subclasses/Draconic Sorcery (2024)]]
+- [[content/Character Creation/Classes/Sorcerer/Subclasses/Shadow Magic]]
+- [[content/Character Creation/Classes/Sorcerer/Subclasses/Storm Sorcery]]
+- [[content/Character Creation/Classes/Sorcerer/Subclasses/Wild Magic Sorcery (2024)]]
 
 
 ### Level 4: Ability Score Improvement

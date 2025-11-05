@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.877-08:00","modified":"2025-11-04T14:29:00.281-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 > [!summary] Core Warlock Traits
 > **Primary Ability**  -  Charisma
@@ -59,7 +59,7 @@ As a Warlock, you gain the following class features when you reach the specified
 
 ### Level 1: Eldritch Invocations
 
-You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the [[Eldritch Invocations (2024)]] section.
+You have unearthed Eldritch Invocations, pieces of forbidden knowledge that imbue you with an abiding magical ability or other lessons. You gain one invocation of your choice, such as Pact of the Tome. Invocations are described in the [[content/Character Creation/Classes/Warlock/Eldritch Invocations (2024)]] section.
 
 _**Prerequisites.**_ If an invocation has a prerequisite, you must meet it to learn that invocation. For example, if an invocation requires you to be a level 5+ Warlock, you can select the invocation once you reach Warlock level 5.
 
@@ -101,15 +101,15 @@ You can perform an esoteric rite for 1 minute. At the end of it, you regain expe
 
 You gain a Warlock subclass of your choice. The Fiend Patron subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Warlock levels. For the rest of your career, you gain each of your subclass’s features that are of your Warlock level or lower.
 
-- [[Archfey Patron (2024)]]
-- [[Celestial Patron (2024)]]	
-- [[Pact of the Fathomless]]	
-- [[Fiend Patron (2024)]]
-- [[Pact of the Genie]]
-- [[Great Old One Patron Patron (2024)]]
-- [[Pact of the Hexblade]]
-- [[Pact of the Undead]]
-- [[Pact of the Undying]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Archfey Patron (2024)]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Celestial Patron (2024)]]	
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Fathomless]]	
+- [[content/Character Creation/Classes/Warlock/Subclasses/Fiend Patron (2024)]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Genie]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Great Old One Patron Patron (2024)]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Hexblade]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Undead]]
+- [[content/Character Creation/Classes/Warlock/Subclasses/Pact of the Undying]]
 
 ### Level 4: Ability Score Improvement
 

@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.772-08:00","modified":"2025-11-03T16:26:39.078-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 
 > [!summary] Core Ranger Traits
@@ -136,14 +136,14 @@ _**Druidic Warrior.**_ You learn two Druid cantrips of your choice (see the Dru
 
 You gain a Ranger subclass of your choice. The Hunter subclass is detailed after this class’s description. A subclass is a specialization that grants you features at certain Ranger levels. For the rest of your career, you gain each of your subclass’s features that are of your Ranger level or lower.
 
-- [[Beast Master (2024)]]
-- [[Fey Wanderer (2024)]]
-- [[Gloom Stalker (2024)]]
-- [[Horizon Walker]]
-- [[Hunter (2024)]]
-- [[Monster Slayer]]
-- [[Swarmkeeper]]
-- [[Drakewarden]]
+- [[content/Character Creation/Classes/Ranger/Subclasses/Beast Master (2024)]]
+- [[content/Character Creation/Classes/Ranger/Subclasses/Fey Wanderer (2024)]]
+- [[content/Character Creation/Classes/Ranger/Subclasses/Gloom Stalker (2024)]]
+- [[content/Character Creation/Classes/Ranger/Subclasses/Horizon Walker]]
+- [[content/Character Creation/Classes/Ranger/Subclasses/Hunter (2024)]]
+- [[content/Character Creation/Classes/Ranger/Subclasses/Monster Slayer]]
+- [[content/Character Creation/Classes/Ranger/Subclasses/Swarmkeeper]]
+- [[content/Character Creation/Classes/Ranger/Subclasses/Drakewarden]]
 
 ### Level 4: Ability Score Improvement
 

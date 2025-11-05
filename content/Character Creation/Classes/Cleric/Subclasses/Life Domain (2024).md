@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/cleric/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.589-08:00","modified":"2025-11-02T11:48:12.119-08:00","tags":["gameplay/class/cleric/subclass"],"cssclasses":""}
 ---
+
 _Soothe the Hurts of the World_
 
 The Life Domain focuses on the positive energy that helps sustain all life in the multiverse. Clerics who tap into this domain are masters of healing, using that life force to cure many hurts.
@@ -23,7 +23,7 @@ Your connection to this divine domain ensures you always have certain spells rea
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 3            | [[40 References/Spells 2024/Level 2/Aid\|Aid]], [[40 References/Spells 2024/Level 1/Bless\|Bless]], [[40 References/Spells 2024/Level 1/Cure Wounds\|Cure Wounds]], [[40 References/Spells 2024/Level 2/Lesser Restoration\|Lesser Restoration]] |
 | 5            | [[40 References/Spells 2024/Level 3/Mass Healing Word\|Mass Healing Word]], [[40 References/Spells 2024/Level 3/Revivify\|Revivify]]                                                                                                             |
-| 7            | [[Aura of Life]], [[40 References/Spells 2024/Level 4/Death Ward\|Death Ward]]                                                                                                                                                                   |
+| 7            | [[content/References/Spells 2024/Level 4/Aura of Life]], [[40 References/Spells 2024/Level 4/Death Ward\|Death Ward]]                                                                                                                                                                   |
 | 9            | [[40 References/Spells 2024/Level 5/Greater Restoration\|Greater Restoration]], [[40 References/Spells 2024/Level 5/Mass Cure Wounds\|Mass Cure Wounds]]                                                                                         |
 
 

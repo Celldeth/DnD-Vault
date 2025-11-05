@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/fighter/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.674-08:00","modified":"2025-11-02T13:39:49.760-08:00","tags":["gameplay/class/fighter/subclass"],"cssclasses":""}
 ---
+
 _Pursue Physical Excellence in Combat_
 
 A Champion focuses on the development of martial prowess in a relentless pursuit of victory. Champions combine rigorous training with physical excellence to deal devastating blows, withstand peril, and garner glory. Whether in athletic contests or bloody battle, Champions strive for the crown of the victor.

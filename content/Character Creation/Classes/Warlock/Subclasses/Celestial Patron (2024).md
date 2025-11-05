@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/warlock/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.886-08:00","modified":"2025-11-04T14:19:33.759-08:00","tags":["gameplay/class/warlock/subclass"],"cssclasses":""}
 ---
+
 *Call on the Power of the Heavens*
 
 Your pact draws on the Upper Planes, the realms of everlasting bliss. You might enter an agreement with an empyrean, a couatl, a sphinx, a unicorn, or another heavenly entity. Or you might call on numerous such beings as you pursue goals aligned with theirs. Your pact allows you to experience a hint of the holy light that illuminates the multiverse.
@@ -17,7 +17,7 @@ The magic of your patron ensures you always have certain spells ready; when you 
 | 3             | [[40 References/Spells 2024/Level 2/Aid\|Aid]], [[40 References/Spells 2024/Level 1/Cure Wounds\|Cure Wounds]], [[40 References/Spells 2024/Level 1/Guiding Bolt\|Guiding Bolt]], [[40 References/Spells 2024/Level 2/Lesser Restoration\|Lesser Restoration]], [[40 References/Spells 2024/Level 0/Light (spell)\|Light (spell)]], [[40 References/Spells 2024/Level 0/Sacred Flame\|Sacred Flame]] |
 | 5             | [[40 References/Spells 2024/Level 3/Daylight\|Daylight]], [[40 References/Spells 2024/Level 3/Revivify\|Revivify]]                                                                                                                                                                                                                                                                                   |
 | 7             | [[40 References/Spells 2024/Level 4/Guardian of Faith\|Guardian of Faith]], [[40 References/Spells 2024/Level 4/Wall of Fire\|Wall of Fire]]                                                                                                                                                                                                                                                         |
-| 9             | [[40 References/Spells 2024/Level 5/Greater Restoration\|Greater Restoration]], [[Summon Celestial]]                                                                                                                                                                                                                                                                                                 |
+| 9             | [[40 References/Spells 2024/Level 5/Greater Restoration\|Greater Restoration]], [[content/References/Spells 2024/Level 5/Summon Celestial]]                                                                                                                                                                                                                                                                                                 |
 
 ### Level 3: Healing Light
 

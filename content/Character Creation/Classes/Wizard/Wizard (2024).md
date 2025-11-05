@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class
+{"publish":true,"created":"2025-11-05T11:09:09.913-08:00","modified":"2025-11-04T14:54:55.258-08:00","tags":["gameplay/class"],"cssclasses":""}
 ---
+
 
 > [!summary] Core Wizard Traits
 > **Primary Ability**  -  Intelligence
@@ -142,17 +142,17 @@ While studying magic, you also specialized in another field of study. Choose one
 
 You gain a Wizard subclass of your choice. Subclasses are listed below. A subclass is a specialization that grants you features at certain Wizard levels. For the rest of your career, you gain each of your subclass’s features that are of your Wizard level or lower.
 
-- [[Abjurer (2024)]]
-- [[Bladesinging]]
-- [[School of Conjuration]]
-- [[Diviner (2024)]]
-- [[School of Enchantment]]
-- [[Evoker (2024)]]
-- [[Illusionist (2024)]]
-- [[School of Necromancy]]
-- [[Order of Scribes]]
-- [[School of Transmutation]]
-- [[War Magic]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/Abjurer (2024)]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/Bladesinging]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/School of Conjuration]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/Diviner (2024)]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/School of Enchantment]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/Evoker (2024)]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/Illusionist (2024)]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/School of Necromancy]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/Order of Scribes]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/School of Transmutation]]
+- [[content/Character Creation/Classes/Wizard/Subclasses/War Magic]]
 
 
 ### Level 4: Ability Score Improvement

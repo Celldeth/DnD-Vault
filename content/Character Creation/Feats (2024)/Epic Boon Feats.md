@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/feat
+{"publish":true,"created":"2025-11-05T11:09:09.955-08:00","modified":"2025-11-02T13:13:48.968-08:00","tags":["gameplay/feat"],"cssclasses":""}
 ---
+
 # Epic Boon Feats
 *These feats are in the Epic Boon category.*
 

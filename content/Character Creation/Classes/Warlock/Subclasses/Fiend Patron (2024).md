@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/warlock/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.887-08:00","modified":"2025-11-04T13:56:29.098-08:00","tags":["gameplay/class/warlock/subclass"],"cssclasses":""}
 ---
+
 _Make a Deal with the Lower Planes_
 
 Your pact draws on the Lower Planes, the realms of perdition. You might forge a bargain with a demon lord such as Demogorgon or Orcus; an archdevil such as Asmodeus; or a pit fiend, balor, yugoloth, or night hag that is especially mighty. That patron’s aims are evil—the corruption or destruction of all things, ultimately including you—and your path is defined by the extent to which you strive against those aims.

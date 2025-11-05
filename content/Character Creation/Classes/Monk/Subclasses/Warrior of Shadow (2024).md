@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/monk/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.708-08:00","modified":"2025-11-02T15:34:19.384-08:00","tags":["gameplay/class/monk/subclass"],"cssclasses":""}
 ---
+
 *Harness Shadow Power for Stealth and Subterfuge*
 
 Warriors of Shadow practice stealth and subterfuge, harnessing the power of the Shadowfell. They are at home in darkness, able to draw gloom around themselves to hide, leap from shadow to shadow and take on a wraithlike form.

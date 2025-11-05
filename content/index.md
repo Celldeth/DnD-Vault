@@ -1,6 +1,7 @@
 ---
-title: MalGama
+{"publish":true,"title":"MalGama","created":"2025-10-31T18:56:15.054-07:00","modified":"2025-10-25T15:30:31.453-07:00","cssclasses":""}
 ---
+
 Welcome Mal'Gama players!
 
 Here you can access pages of information that will be useful for either lore, stats, or references.

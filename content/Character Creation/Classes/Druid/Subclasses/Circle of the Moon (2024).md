@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/druid/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.644-08:00","modified":"2025-11-02T12:20:37.641-08:00","tags":["gameplay/class/druid/subclass"],"cssclasses":""}
 ---
+
 *Adopt Animal Forms to Guard the Wilds*
 
 Druids of the Circle of the Moon draw on lunar magic to transform themselves. Their order gathers under the moon to share news and perform rituals. Changeable as the moon, a Druid of this circle might prowl as a great cat one night, soar over the treetops as an eagle the next day, and then crash through undergrowth as a bear to drive off a trespassing monster. The wild is in the Druid's blood. 
@@ -26,9 +26,9 @@ In addition, you can cast the spells from this feature while you're in a Wild Sh
 
 | Druid Level | Circle Spells                                                                                                                             |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| 3           | [[40 References/Spells 2024/Level 1/Cure Wounds\|Cure Wounds]], [[40 References/Spells 2024/Level 2/Moonbeam\|Moonbeam]], [[Starry Wisp]] |
+| 3           | [[40 References/Spells 2024/Level 1/Cure Wounds\|Cure Wounds]], [[40 References/Spells 2024/Level 2/Moonbeam\|Moonbeam]], [[content/References/Spells 2024/Level 0/Starry Wisp]] |
 | 5           | [[40 References/Spells 2024/Level 3/Conjure Animals\|Conjure Animals]]                                                                    |
-| 7           | [[Fount of Moonlight]]                                                                                                                    |
+| 7           | [[content/References/Spells 2024/Level 4/Fount of Moonlight]]                                                                                                                    |
 | 9           | [[40 References/Spells 2024/Level 5/Mass Cure Wounds\|Mass Cure Wounds]]                                                                  |
 
 ### Level 6: Improved Circle Forms

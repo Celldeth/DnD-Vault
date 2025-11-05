@@ -212,9 +212,9 @@ You have Advantage on Intelligence, Wisdom, and Charisma saving throws.
 
 You are part of a lineage that grants you supernatural abilities. Choose one of the following options; whichever one you choose, Intelligence, Wisdom, or Charisma is your spellcasting ability for the spells you cast with this trait (choose the ability when you select the lineage):
 
-**Forest Gnome.** You know the [[40 References/Spells 2024/Level 0/Minor Illusion|Minor Illusion]] cantrip. You also always have the [[40 References/Spells 2024/Level 1/Speak with Animals|Speak with Animals]] spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
+**Forest Gnome.** You know the [[40 References/Spells 2024/Level 0/Minor Illusion\|Minor Illusion]] cantrip. You also always have the [[40 References/Spells 2024/Level 1/Speak with Animals\|Speak with Animals]] spell prepared. You can cast it without a spell slot a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest. You can also use any spell slots you have to cast the spell.
 
-**Rock Gnome.** You know the [[40 References/Spells 2024/Level 0/Mending|Mending]] and [[40 References/Spells 2024/Level 0/Prestidigitation|Prestidigitation]] cantrips. In addition, you can spend 10 minutes casting _Prestidigitation_ to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from _Prestidigitation_; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell’s ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn’t do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
+**Rock Gnome.** You know the [[40 References/Spells 2024/Level 0/Mending\|Mending]] and [[40 References/Spells 2024/Level 0/Prestidigitation\|Prestidigitation]] cantrips. In addition, you can spend 10 minutes casting _Prestidigitation_ to create a Tiny clockwork device (AC 5, 1 HP), such as a toy, fire starter, or music box. When you create the device, you determine its function by choosing one effect from _Prestidigitation_; the device produces that effect whenever you or another creature takes a Bonus Action to activate it with a touch. If the chosen effect has options within it, you choose one of those options for the device when you create it. For example, if you choose the spell’s ignite-extinguish effect, you determine whether the device ignites or extinguishes fire; the device doesn’t do both. You can have three such devices in existence at a time, and each falls apart 8 hours after its creation or when you dismantle it with a touch as a Utilize action.
 
 # Goliath
 
@@ -312,7 +312,7 @@ You gain proficiency in one skill of your choice.
 
 #### Versatile
 
-You gain an [[Origin Feats|Origin feat]] of your choice.
+You gain an [[content/Character Creation/Feats (2024)/Origin Feats\|Origin feat]] of your choice.
 
 # Orc
 
@@ -382,10 +382,10 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 
 | Legacy   | Level 1                                                                                                                           | Level 3                                                              | Level 5                                                                        |
 | -------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| Abyssal  | You have Resistance to Poison damage. You also know the [[40 References/Spells 2024/Level 0/Poison Spray\|Poison Spray]] cantrip. | [[Ray of Sickness]]                                                  | [[40 References/Spells 2024/Level 2/Hold Person\|Hold Person]]                 |
+| Abyssal  | You have Resistance to Poison damage. You also know the [[40 References/Spells 2024/Level 0/Poison Spray\|Poison Spray]] cantrip. | [[content/References/Spells 2024/Level 1/Ray of Sickness]]                                                  | [[40 References/Spells 2024/Level 2/Hold Person\|Hold Person]]                 |
 | Chthonic | You have Resistance to Necrotic damage. You also know the [[40 References/Spells 2024/Level 0/Chill Touch\|Chill Touch]] cantrip. | [[40 References/Spells 2024/Level 1/False Life\|False Life]]         | [[40 References/Spells 2024/Level 2/Ray of Enfeeblement\|Ray of Enfeeblement]] |
 | Infernal | You have Resistance to Fire damage. You also know the [[40 References/Spells 2024/Level 0/Fire Bolt\|Fire Bolt]] cantrip.         | [[40 References/Spells 2024/Level 1/Hellish Rebuke\|Hellish Rebuke]] | [[40 References/Spells 2024/Level 2/Darkness\|Darkness]]                       |
 
 #### Otherworldly Presence
 
-You know the [[40 References/Spells 2024/Level 0/Thaumaturgy|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait. 
+You know the [[40 References/Spells 2024/Level 0/Thaumaturgy\|Thaumaturgy]] cantrip. When you cast it with this trait, the spell uses the same spellcasting ability you use for your Fiendish Legacy Trait. 

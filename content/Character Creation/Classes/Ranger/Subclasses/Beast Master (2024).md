@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/ranger/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.779-08:00","modified":"2025-11-03T16:08:05.990-08:00","tags":["gameplay/class/ranger/subclass"],"cssclasses":""}
 ---
+
 *Bond with a Primal Beast*
 
 A Beast Master forms a mystical bond with a special animal, drawing on primal magic and a deep connection to the natural world.

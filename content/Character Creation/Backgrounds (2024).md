@@ -2,7 +2,7 @@
 A background includes the following parts.
 
 >**Ability Scores**. A background lists three of your character's ability scores. Increase one by 2 and another one by 1, or increase all three by 1. None of these increases can raise a score above 20.
->**Feat**. A background gives your character a specified [[Origin Feats]]
+>**Feat**. A background gives your character a specified [[content/Character Creation/Feats (2024)/Origin Feats]]
 >**Skill Proficiencies**. A background gives your character proficiency in two specified skills.
 >**Tool Proficiency**. Each background gives a character proficiency with one tool-either a specific tool or one chosen from the Artisan's Tools category. Tools are detailed in chapter 6.
 >**Equipment**. Each background offers a choice between a package of equipment and 50 GP.
@@ -11,7 +11,7 @@ A background includes the following parts.
 ### Acolyte
 
 >**Ability Scores**: Intelligence, Wisdom, Charisma 
->**Feat**: Magic initiate (Cleric) (see [[Origin Feats]])
+>**Feat**: Magic initiate (Cleric) (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Insight and Religion
 >**Tool Proficiency**: Calligrapher's Supplies
 >**Equipment**: Choose A or B: (A) Calligrapher's Supplies, Book (prayers), Holy Symbol, Parchment (10 sheets), Robe, 8 GP; or (B) 50 GP
@@ -21,7 +21,7 @@ You devoted yourself to service in a temple, either nestled in a town or seclude
 ### Artisan
 
 >**Ability Scores**: Strength, Dexterity, Intelligence
->**Feat**: Crafter (see [[Origin Feats]])
+>**Feat**: Crafter (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Investigation and Persuasion
 >**Tool Proficiency**: Choose one kind of Artisan's Tools (see chapter 5)
 >**Equipment**: *Choose A or B*: (A) Artisan's Tools (same as above), 2 Pouches, Traveler's Clothes, 32 GP; or (B) 50 GP
@@ -31,7 +31,7 @@ You began mopping floors and scrubbing counters in an artisan's workshop for a f
 ### Charlatan
 
 >**Ability Scores**: Dexterity, Constitution, Charisma
->**Feat**: Skilled (see [[Origin Feats]])
+>**Feat**: Skilled (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Deception and Sleight of Hand
 >**Tool Proficiency**: Forgery Kit
 >**Equipment**: *Choose A or B*: (A) Forgery Kit, Costume, Fine Clothes, 15 GP; or (B) 50 GP
@@ -41,7 +41,7 @@ Once you were old enough to order an ale, you soon had a favorite stool in every
 ### Criminal
 
 >**Ability Scores**: Dexterity, Constitution, Intelligence
->**Feat**: Alert (see [[Origin Feats]])
+>**Feat**: Alert (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Sleight of Hand and Stealth
 >**Tool Proficiency**: Thieves' Tools
 >**Equipment**: *Choose A or B*: (A) 2 Daggers, Thieves' Tools, Crowbar, 2 Pouches, Traveler's Clothes, 16 GP; or (B) 50 GP
@@ -51,7 +51,7 @@ You eked out a living in dark alleyways, cutting purses or burgling shops. Perha
 ### Entertainer
 
 >**Ability Scores**: Strength, Dexterity, Charisma
->**Feat**: Musician (see [[Origin Feats]])
+>**Feat**: Musician (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Acrobatics and Performance
 >**Tool Proficiency**: Choose one kind of Musical instrument (see chapter 6)
 >**Equipment**: Choose A or B: (A) Musical instrument (same as above), 2 Costumes, Mirror, Perfume, Traveler's Clothes, 11 GP; or (B) 50 GP
@@ -61,7 +61,7 @@ You spent much of your youth following roving fairs and carnivals, performing od
 ### Farmer
 
 >**Ability Scores**: Strength, Constitution, Wisdom
->**Feat**: Tough (see [[Origin Feats]])
+>**Feat**: Tough (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Animal Handling and Nature
 >**Tool Proficiency**: Carpenter's Tools
 >**Equipment**: *Choose A or B*: (A) Sickle, Carpenter's Tools, Healer's Kit, Iron Pot, Shovel, Traveler's Clothes, 30 GP; or (B) 50 GP
@@ -71,7 +71,7 @@ You grew up close to the land. Years tending animals and cultivating the earth r
 ### Guard
 
 >**Ability Scores**: Strength, Intelligence, Wisdom
->**Feat**: Alert (see [[Origin Feats]])
+>**Feat**: Alert (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Athletics and Perception
 >**Tool Proficiency**: Choose one kind of Gaming Set (see chapter 5)
 >**Equipment**: *Choose A or B*: (A) Spear, Light Crossbow, 20 Bolts, Gaming Set (same as above), Hooded Lantern, Manacles, Quiver, Traveler's Clothes, 12 GP; or (B) 50 GP
@@ -81,7 +81,7 @@ Your feet ache when you remember the countless hours you spent at your post in t
 ### Guide
 
 >**Ability Scores**: Dexterity, Constitution, Wisdom
->**Feat**: Magic Initiate (Druid) (see [[Origin Feats]])
+>**Feat**: Magic Initiate (Druid) (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Stealth and Survival
 >**Tool Proficiency**: Cartographer's Tools
 >**Equipment**: *Choose A or B*: (A) Short-bow, 20 Arrows, Cartographer's Tools, Bedroll, Quiver, Tent, Traveler's Clothes, 3 GP; or (B) 50 GP
@@ -91,7 +91,7 @@ You came of age outdoors, far from settled lands. Your home was anywhere you cho
 ### Hermit
 
 >**Ability Scores**: Constitution, Wisdom, Charisma
->**Feat**: Healer (see [[Origin Feats]])
+>**Feat**: Healer (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Medicine and Religion
 >**Tool Proficiency**: Herbalism Kit
 >**Equipment**: *Choose A or B*: (A) Quarterstaff Herbalism Kit, Bedroll, Book (philosophy), Lamp, Oil (3 flasks), Traveler's Clothes, 16 GP; or (B) 50 GP
@@ -101,7 +101,7 @@ You spent your early years secluded in a hut or monastery located well beyond th
 ### Merchant
 
 >**Ability Scores**: Constitution, Intelligence, Charisma
->**Feat**: Lucky (see [[Origin Feats]])
+>**Feat**: Lucky (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Animal Handling and Persuasion
 >**Tool Proficiency**: Navigator's Tools
 >**Equipment**: *Choose A or B*: (A) Navigator's Tools, 2 Pouches, Traveler's Clothes, 22 GP; or (B) 50 GP 
@@ -111,7 +111,7 @@ You were apprenticed to a trader, caravan master, or shopkeeper, learning the fu
 ### Noble
 
 >**Ability Scores**: Strength, Intelligence, Charisma
->**Feat**: Skilled (see [[Origin Feats]])
+>**Feat**: Skilled (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: History and Persuasion
 >**Tool Proficiency**: Choose one kind of Gaming Set (see chapter 6)
 >**Equipment**: *Choose A or B*: (A) Gaming Set (same as above), Fine Clothes, Perfume, 29 GP; or (B) 50 GP
@@ -121,7 +121,7 @@ You were raised in a castle, surrounded by wealth, power, and privilege. Your fa
 ### Sage
 
 >**Ability Scores**: Constitution, Intelligence, Wisdom
->**Feat**: Magic Initiate (Wizard) (see [[Origin Feats]])
+>**Feat**: Magic Initiate (Wizard) (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Arcana and History
 >**Tool Proficiency**: Calligrapher's Supplies
 >**Equipment**: *Choose A or B*: (A) Quarterstaff, Calligrapher's Supplies, Book (history), Parchment (8 sheets), Robe, 8 GP; or (B) 50 GP
@@ -131,7 +131,7 @@ You spent your formative years traveling between manors and monasteries, perform
 ### Sailor
 
 >**Ability Scores**: Strength, Dexterity, Wisdom
->**Feat**: Tavern Brawler (see [[Origin Feats]])
+>**Feat**: Tavern Brawler (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Acrobatics and Perception
 >**Tool Proficiency**: Navigator's Tools
 >**Equipment**: *Choose A or B*: (A) Dagger, Navigator's Tools, Rope, Traveler's Clothes, 20 GP; or (B) 50 GP
@@ -141,7 +141,7 @@ You lived as a seafarer, wind at your back and decks swaying beneath your feet. 
 ### Scribe
 
 >**Ability Scores**: Dexterity, Intelligence, Wisdom
->**Feat**: Skilled (see [[Origin Feats]])
+>**Feat**: Skilled (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Investigation and Perception
 >**Tool Proficiency**: Calligrapher's Supplies
 >**Equipment**: *Choose A or B*: (A) Calligrapher's Supplies, Fine Clothes, Lamp, Oil (3 flasks), Parchment (12 sheets), 23 GP; or (B) 50 GP
@@ -151,7 +151,7 @@ You spent formative years in a scriptorium, a monastery dedicated to the preserv
 ### Soldier
 
 >**Ability Scores**: Strength, Dexterity, Constitution
->**Feat**: Savage Attacker (see [[Origin Feats]])
+>**Feat**: Savage Attacker (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Athletics and lntimidation
 >**Tool Proficiency**: Choose one kind of Gaming Set (see chapter 6)
 >**Equipment**: *Choose A or B*: (A) Spear, Short-bow, 20 Arrows, Gaming Set (same as above), Healer's Kit, Quiver, Traveler's Clothes, 14 GP; or (B) 50 GP
@@ -161,7 +161,7 @@ You began training for war as soon as you reached adulthood and carry precious f
 ### Wayfarer
 
 >**Ability Scores**: Dexterity, Wisdom, Charisma
->**Feat**: Lucky (see [[Origin Feats]])
+>**Feat**: Lucky (see [[content/Character Creation/Feats (2024)/Origin Feats]])
 >**Skill Proficiencies**: Insight and Stealth
 >**Tool Proficiency**: Thieves' Tools
 >**Equipment**: *Choose A or B*: (A) 2 Daggers, Thieves' Tools, Gaming Set (any), Bedroll, 2 Pouches, Traveler's Clothes, 15 GP; or (B) 50 GP

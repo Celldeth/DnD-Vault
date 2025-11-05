@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/rogue/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.828-08:00","modified":"2025-11-03T17:16:13.371-08:00","tags":["gameplay/class/rogue/subclass"],"cssclasses":""}
 ---
+
 *Strike Foes with Psionic Blades*
 
 A Soulknife strikes with the mind, cutting through barriers both physical and psychic. These Rogues discover psionic power within themselves and channel it to do their roguish work. As a Soulknife, your psionic abilities might have haunted you since childhood, revealing their full potential only as you experienced the stress of adventure. Or you might have sought out an order of psychic adepts and spent years learning how to manifest  your power.

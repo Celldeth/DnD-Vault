@@ -10,7 +10,7 @@ When you join this order at 3rd level, you learn the Rite of the Dawn as part of
 
 ### Curse Specialist
 
-Starting at 3rd level, you learn to master [[Blood Curses]]. You gain an additional use of your Blood Maledict feature. In addition, your [[Blood Curses]] can target any creature, whether it has blood or not.
+Starting at 3rd level, you learn to master [[content/Character Creation/Classes/Blood Hunter/Blood Curses]]. You gain an additional use of your Blood Maledict feature. In addition, your [[content/Character Creation/Classes/Blood Hunter/Blood Curses]] can target any creature, whether it has blood or not.
 
 ### Aether Walk
 
@@ -26,7 +26,7 @@ Starting at 11th level, your Brand of Castigation exposes a fragment of your foe
 
 ### Blood Curse of the Exorcist
 
-At 15th level, you hone your hemocraft to tear corruption from the minds and bodies of your allies — and to punish those responsible for it. You gain the [[Blood Curses#Blood Curse of the Exorcist|Blood Curse of the Exorcist]] for your Blood Maledict feature. This doesn’t count against your number of [[Blood Curses]] known.
+At 15th level, you hone your hemocraft to tear corruption from the minds and bodies of your allies — and to punish those responsible for it. You gain the [[content/Character Creation/Classes/Blood Hunter/Blood Curses#Blood Curse of the Exorcist\|Blood Curse of the Exorcist]] for your Blood Maledict feature. This doesn’t count against your number of [[content/Character Creation/Classes/Blood Hunter/Blood Curses]] known.
 
 ### Rite Revival
 

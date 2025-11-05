@@ -1,7 +1,7 @@
 ---
-tags:
-  - Rift-Knight/Order
+{"publish":true,"created":"2025-10-31T18:56:15.723-07:00","modified":"2025-10-23T14:31:33.729-07:00","tags":["Rift-Knight/Order"],"cssclasses":""}
 ---
+
 
 
 >_“The flame cleanses. Let our wrath burn away corruption, until the ashes rise to the divine.”_  

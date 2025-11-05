@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/rogue/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.814-08:00","modified":"2025-11-03T17:01:10.328-08:00","tags":["gameplay/class/rogue/subclass"],"cssclasses":""}
 ---
+
 *Enhance Stealth with Arcane Spells*
 
 Some Rogues enhance their fine-honed skills of stealth and agility with spells, learning magical tricks to aid them in their trade. Some Arcane Tricksters use their talents as pickpockets and burglars, while others are pranksters. 

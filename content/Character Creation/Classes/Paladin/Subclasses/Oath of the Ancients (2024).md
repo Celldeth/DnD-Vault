@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/paladin/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.754-08:00","modified":"2025-11-02T17:22:13.881-08:00","tags":["gameplay/class/paladin/subclass"],"cssclasses":""}
 ---
+
 *Preserve Life and Light in the World*
 
 The Oath of the Ancients is as old as the first elves. Paladins who swear this oath cherish the light; they love the beautiful and life-giving things of the world more than any principles of honor, courage, and justice. They often adorn their armor and clothing with images of growing things-leaves, antlers, or flowers-to reflect their commitment to preserving life and light.
@@ -24,7 +24,7 @@ The magic of your oath ensures you always have certain spells ready; when you re
 
 | Paladin Level | Spells                                                                                                                                                               |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 3             | [[Ensnaring Strike]], [[40 References/Spells 2024/Level 1/Speak with Animals\|Speak with Animals]]                                                                   |
+| 3             | [[content/References/Spells 2024/Level 1/Ensnaring Strike]], [[40 References/Spells 2024/Level 1/Speak with Animals\|Speak with Animals]]                                                                   |
 | 5             | [[40 References/Spells 2024/Level 2/Misty Step\|Misty Step]], [[40 References/Spells 2024/Level 2/Moonbeam\|Moonbeam]]                                               |
 | 9             | [[40 References/Spells 2024/Level 3/Plant Growth\|Plant Growth]], [[40 References/Spells 2024/Level 1/Protection from Evil and Good\|Protection from Evil and Good]] |
 | 13            | [[40 References/Spells 2024/Level 4/Ice Storm\|Ice Storm]], [[40 References/Spells 2024/Level 4/Stoneskin\|Stoneskin]]                                               |

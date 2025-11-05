@@ -10,26 +10,26 @@ _If your blood hunter is part of the Order of the Profane Soul and also has warl
 
 | Level | Proficiency Bonus | Hemocraft Die | Blood Curses Known | Features                                      |
 | ----- | ----------------- | ------------- | ------------------ | --------------------------------------------- |
-| 1st   | +2                | 1d4           | 1                  | [[#Hunter's Bane]], [[#Blood Maledict]]                 |
-| 2nd   | +2                | 1d4           | 1                  | [[#Fighting Style]], [[#Crimson Rite]]                  |
-| 3rd   | +2                | 1d4           | 1                  | [[#Blood Hunter Order]]                            |
-| 4th   | +2                | 1d4           | 1                  | [[#Ability Score Improvement]]                     |
-| 5th   | +3                | 1d6           | 1                  | [[#Extra Attack]]                                  |
-| 6th   | +3                | 1d6           | 2                  | [[#Brand of Castigation]], [[#Blood Maledict]] (2/rest) |
-| 7th   | +3                | 1d6           | 2                  | [[#Blood Hunter Order]], [[#Crimson Rite]]       |
-| 8th   | +3                | 1d6           | 2                  | [[#Ability Score Improvement]]                     |
-| 9th   | +4                | 1d6           | 2                  | [[#Grim Psychometry]]                              |
-| 10th  | +4                | 1d6           | 3                  | [[#Dark Augmentation]]                             |
-| 11th  | +4                | 1d8           | 3                  | [[#Blood Hunter Order]]                                 |
-| 12th  | +4                | 1d8           | 3                  | [[#Ability Score Improvement]]                     |
-| 13th  | +5                | 1d8           | 3                  | [[#Brand of Tethering]], [[#Blood Maledict]] (3/rest)   |
-| 14th  | +5                | 1d8           | 4                  | [[#Hardened Soul]], [[#Crimson Rite]]       |
-| 15th  | +5                | 1d8           | 4                  | [[#Blood Hunter Order]]                                 |
-| 16th  | +5                | 1d8           | 4                  | [[#Ability Score Improvement]]                      |
-| 17th  | +6                | 1d10          | 4                  | [[#Blood Maledict]] (4/rest)                       |
-| 18th  | +6                | 1d10          | 5                  | [[#Blood Hunter Order]]                                 |
-| 19th  | +6                | 1d10          | 5                  | [[#Ability Score Improvement]]                     |
-| 20th  | +6                | 1d10          | 5                  | [[#Sanguine Mastery]]                              |
+| 1st   | +2                | 1d4           | 1                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Hunter's Bane]], [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Maledict]]                 |
+| 2nd   | +2                | 1d4           | 1                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Fighting Style]], [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Crimson Rite]]                  |
+| 3rd   | +2                | 1d4           | 1                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Hunter Order]]                            |
+| 4th   | +2                | 1d4           | 1                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Ability Score Improvement]]                     |
+| 5th   | +3                | 1d6           | 1                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Extra Attack]]                                  |
+| 6th   | +3                | 1d6           | 2                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Brand of Castigation]], [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Maledict]] (2/rest) |
+| 7th   | +3                | 1d6           | 2                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Hunter Order]], [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Crimson Rite]]       |
+| 8th   | +3                | 1d6           | 2                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Ability Score Improvement]]                     |
+| 9th   | +4                | 1d6           | 2                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Grim Psychometry]]                              |
+| 10th  | +4                | 1d6           | 3                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Dark Augmentation]]                             |
+| 11th  | +4                | 1d8           | 3                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Hunter Order]]                                 |
+| 12th  | +4                | 1d8           | 3                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Ability Score Improvement]]                     |
+| 13th  | +5                | 1d8           | 3                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Brand of Tethering]], [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Maledict]] (3/rest)   |
+| 14th  | +5                | 1d8           | 4                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Hardened Soul]], [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Crimson Rite]]       |
+| 15th  | +5                | 1d8           | 4                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Hunter Order]]                                 |
+| 16th  | +5                | 1d8           | 4                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Ability Score Improvement]]                      |
+| 17th  | +6                | 1d10          | 4                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Maledict]] (4/rest)                       |
+| 18th  | +6                | 1d10          | 5                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Blood Hunter Order]]                                 |
+| 19th  | +6                | 1d10          | 5                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Ability Score Improvement]]                     |
+| 20th  | +6                | 1d10          | 5                  | [[content/Character Creation/Classes/Blood Hunter/Blood Hunter#Sanguine Mastery]]                              |
 
 # Class Features
 
@@ -66,9 +66,9 @@ The Hunter’s Bane also empowers your body to control and shape hemocraft magic
 
 ### Blood Maledict
 
-Also at 1st level, you gain the ability to channel—or sometimes sacrifice—a part of your vital essence to curse and manipulate creatures through hemocraft magic. You know one [[Blood Curses|Blood Curse]] of your choice. You learn one additional blood curse of your choice at 6th, 10th, 14th, and 18th level. Each time you learn a new blood curse, you can also choose one of the [[Blood Curses]] you know and replace it with another blood curse.
+Also at 1st level, you gain the ability to channel—or sometimes sacrifice—a part of your vital essence to curse and manipulate creatures through hemocraft magic. You know one [[content/Character Creation/Classes/Blood Hunter/Blood Curses\|Blood Curse]] of your choice. You learn one additional blood curse of your choice at 6th, 10th, 14th, and 18th level. Each time you learn a new blood curse, you can also choose one of the [[content/Character Creation/Classes/Blood Hunter/Blood Curses]] you know and replace it with another blood curse.
 
-Each time you use your Blood Maledict feature, you choose which curse to invoke from the curses you know. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by taking necrotic damage equal to one roll of your hemocraft die. This damage can’t be reduced in any way. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to [[Blood Curses]] unless you have amplified the curse.
+Each time you use your Blood Maledict feature, you choose which curse to invoke from the curses you know. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by taking necrotic damage equal to one roll of your hemocraft die. This damage can’t be reduced in any way. An amplified curse gains an additional effect, noted in the curse’s description. Creatures that do not have blood are immune to [[content/Character Creation/Classes/Blood Hunter/Blood Curses]] unless you have amplified the curse.
 
 Once you use this feature, you must finish a short or long rest before you can use it again. You can use Blood Maledict twice between rests starting at 6th level, three times starting at 13th level, and four times starting at 17th level.
 
@@ -105,17 +105,17 @@ You choose one rite from the crimson rites below when you first gain this featur
 
 At 3rd level, you commit to an order of blood hunters whose philosophy will guide you throughout your life. The order you choose grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.
 
-[[Order of the Ghostslayer]]
-[[Order of the Lycan]]
-[[Order of the Mutant]]
-[[Order of the Profane Soul]]
+[[content/Character Creation/Classes/Blood Hunter/Subclasses/Order of the Ghostslayer]]
+[[content/Character Creation/Classes/Blood Hunter/Subclasses/Order of the Lycan]]
+[[content/Character Creation/Classes/Blood Hunter/Subclasses/Order of the Mutant]]
+[[content/Character Creation/Classes/Blood Hunter/Subclasses/Order of the Profane Soul]]
 
 
 ### Ability Score Improvement
 
 When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
 
-Using the optional feats rule, you can forgo taking this feature to take a [[Feats (2014)|feat]] of your choice instead.
+Using the optional feats rule, you can forgo taking this feature to take a [[Feats (2014)\|feat]] of your choice instead.
 
 ### Extra Attack
 

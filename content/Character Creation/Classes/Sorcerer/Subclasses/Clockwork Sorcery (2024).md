@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/sorcerer/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.853-08:00","modified":"2025-11-04T13:35:06.440-08:00","tags":["gameplay/class/sorcerer/subclass"],"cssclasses":""}
 ---
+
 *Channel Cosmic Forces of Order*
 
 The cosmic force of order has suffused you with magic. That power arises from Mechanus or a realm like it-a plane of existence shaped entirely by clockwork efficiency. You or someone from your lineage might have become entangled in the machinations of modrons, the orderly beings who inhabit Mechanus. Perhaps your ancestor even took part in the Great Modron March. Whatever its origin within you, the power of order can seem strange to others, but for you, it's part of a vast and glorious system.
@@ -16,7 +16,7 @@ When you reach a Sorcerer level specified in the Clockwork Spells table, you the
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 3              | [[40 References/Spells 2024/Level 2/Aid\|Aid]], [[40 References/Spells 2024/Level 1/Alarm\|Alarm]], [[40 References/Spells 2024/Level 2/Lesser Restoration\|Lesser Restoration]], [[40 References/Spells 2024/Level 1/Protection from Evil and Good\|Protection from Evil and Good]] |
 | 5              | [[40 References/Spells 2024/Level 3/Dispel Magic\|Dispel Magic]], [[40 References/Spells 2024/Level 3/Protection from Energy\|Protection from Energy]]                                                                                                                               |
-| 7              | [[40 References/Spells 2024/Level 4/Freedom of Movement\|Freedom of Movement]], [[Summon Construct]]                                                                                                                                                                                 |
+| 7              | [[40 References/Spells 2024/Level 4/Freedom of Movement\|Freedom of Movement]], [[content/References/Spells 2024/Level 4/Summon Construct]]                                                                                                                                                                                 |
 | 9              | [[40 References/Spells 2024/Level 5/Greater Restoration\|Greater Restoration]], [[40 References/Spells 2024/Level 5/Wall of Force\|Wall of Force]]                                                                                                                                   |
 
 In addition, consult the Manifestations of Order table and choose or randomly determine a way your connection to order manifests while you are casting any of your Sorcerer spells.

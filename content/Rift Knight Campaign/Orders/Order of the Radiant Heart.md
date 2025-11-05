@@ -1,7 +1,7 @@
 ---
-tags:
-  - Rift-Knight/Order
+{"publish":true,"created":"2025-10-31T18:56:15.727-07:00","modified":"2025-10-23T16:28:04.062-07:00","tags":["Rift-Knight/Order"],"cssclasses":""}
 ---
+
 
 >_“The heart is stronger than the blade. For every life we take, ten must be saved.”_  
 	- Saint Calix Vorn, First Keeper of the Heart

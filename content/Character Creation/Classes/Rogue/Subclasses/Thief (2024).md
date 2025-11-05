@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/class/rogue/subclass
+{"publish":true,"created":"2025-11-05T11:09:09.834-08:00","modified":"2025-11-03T16:48:53.848-08:00","tags":["gameplay/class/rogue/subclass"],"cssclasses":""}
 ---
+
 _Hunt for Treasure as a Classic Adventurer_
 
 A mix of burglar, treasure hunter, and explorer, you are the epitome of an adventurer. In addition to improving your agility and stealth, you gain abilities useful for delving into ruins and getting maximum benefit from the magic items you find there.

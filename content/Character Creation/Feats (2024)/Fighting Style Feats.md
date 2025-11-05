@@ -1,7 +1,7 @@
 ---
-tags:
-  - gameplay/feat
+{"publish":true,"created":"2025-11-05T11:09:09.956-08:00","modified":"2025-11-02T13:13:38.104-08:00","tags":["gameplay/feat"],"cssclasses":""}
 ---
+
 # Fighting Style Feats
 *These feats are in the Fighting Style category.*
 
