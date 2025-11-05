@@ -1,11 +1,11 @@
 
 ### Choosing a Class:
 
-You can choose any class or subclass from the [[content/Character Creation/Classes/Classes (2024)]] page
+You can choose any class or subclass from the [[Character Creation/Classes/Classes (2024)]] page
 
 ### Choosing Origins:
 
-A character's origin includes two elements: [[content/Character Creation/Backgrounds (2024)]] and [[content/Character Creation/Species (2024)]]. 
+A character's origin includes two elements: [[Character Creation/Backgrounds (2024)]] and [[Character Creation/Species (2024)]]. 
 
 
 #### Think about your backstory
